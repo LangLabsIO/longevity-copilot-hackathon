@@ -5,11 +5,9 @@ from fastapi.responses import StreamingResponse
 from app.utils.json import json_to_model
 from app.utils.index import get_index
 from fastapi import APIRouter, Depends, HTTPException, Request, status
-from llama_index import VectorStoreIndex
-from llama_index.llms.base import  ChatMessage
-from llama_index.llms.types import MessageRole
+from llama_index.core import VectorStoreIndex
+from llama_index.core.llms import ChatMessage, MessageRole
 from pydantic import BaseModel
-
 
 
 chat_router = r = APIRouter()
@@ -54,12 +52,16 @@ async def chat(
     ]
 
     # query chat engine
-    chat_engine = index.as_chat_engine(chat_mode='condense_plus_context', context_prompt=(
-        "You are a longevity assistant"
-        "Here are the relevant documents for the context:\n"
-        "{context_str}"
-        "\nInstruction: Use the previous chat history, or the context above, to interact and help the user."
-    ), verbose=True)
+    chat_engine = index.as_chat_engine(
+        chat_mode="condense_plus_context",
+        context_prompt=(
+            "You are a longevity assistant"
+            "Here are the relevant documents for the context:\n"
+            "{context_str}"
+            "\nInstruction: Use the previous chat history, or the context above, to interact and help the user."
+        ),
+        verbose=True,
+    )
     response = chat_engine.stream_chat(lastMessage.content, messages)
 
     # stream response

@@ -1,15 +1,16 @@
 import logging
 import os
-from llama_index import (
+from llama_index.core import (
     # SimpleDirectoryReader,
     StorageContext,
-    VectorStoreIndex,
+    # VectorStoreIndex,
     load_index_from_storage,
     ServiceContext,
 )
 from llama_index.llms.together import TogetherLLM
-from llama_index.embeddings.together import TogetherEmbedding
-from llama_index.indices.managed.vectara import VectaraIndex
+
+# from llama_index.embeddings.together import TogetherEmbedding
+# from llama_index.indices.managed.vectara import VectaraIndex
 
 # Vectara Configuration
 VECTARA_CORPUS_ID = os.getenv("VECTARA_CORPUS_ID")
@@ -26,9 +27,9 @@ DATA_DIR = "./data"  # directory containing the documents to index
 # Setup LLM and Embedding Model from Together AI
 service_context = ServiceContext.from_defaults(
     llm=TogetherLLM(api_key=TOGETHER_API_KEY, model="meta-llama/Llama-2-70b-chat-hf"),
-    embed_model=TogetherEmbedding(
-        api_key=TOGETHER_API_KEY, model_name="togethercomputer/m2-bert-80M-8k-retrieval"
-    ),
+    # embed_model=TogetherEmbedding(
+    # api_key=TOGETHER_API_KEY, model_name="togethercomputer/m2-bert-80M-8k-retrieval"
+    # ),
 )
 
 
