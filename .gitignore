@@ -1,0 +1,8 @@
+.env
+env/
+ingest/miniconda.sh
+local-ingest/
+local-ingest-output/
+test.db
+*.pyc
+
