@@ -1,3 +1,5 @@
 .env
 env/
 ingest/miniconda.sh
+local-ingest/
+local-ingest-output/
