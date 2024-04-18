@@ -54,7 +54,12 @@ async def chat(
     ]
 
     # query chat engine
-    chat_engine = index.as_chat_engine(chat_mode='condense_plus_context', verbose=True)
+    chat_engine = index.as_chat_engine(chat_mode='condense_plus_context', context_prompt=(
+        "You are a longevity assistant"
+        "Here are the relevant documents for the context:\n"
+        "{context_str}"
+        "\nInstruction: Use the previous chat history, or the context above, to interact and help the user."
+    ), verbose=True)
     response = chat_engine.stream_chat(lastMessage.content, messages)
 
     # stream response
