@@ -1,0 +1,753 @@
+- Welcome to the Lifespan podcast, where we discuss the science of aging and how to be healthier
+at any stage of life. I'm David Sinclair. I'm a professor of genetics
+at Harvard Medical School, and I'm also co-director of the Paul F. Glenn Center
+for Biology of Aging Research. In this podcast series, we're talking about why we age and how to slow, stop and
+even reverse that process, to give us longer and healthier lives. In this final episode of
+the eight part series, we're talking about the very near future, what's coming down the line that will potentially
+greatly extend our lifespans. I'm joined here by my lovely co-host and my co-author of "Lifespan", Matthew LaPlante, welcome. - Hey, thank you. - So yeah, we've been talking
+over the last few minutes about what the future really looks like and how much it's going
+to change our lives, but even how hard it is
+to predict the future just a few years out, 'cause things are changing so quickly. - Well, in fact, we set off
+to give some predictions when we worked on "Lifespan" together. And a lot of the things that you had said, you envisioned coming down
+the line maybe five years out, maybe 10 years out. By the time the book had published, and certainly now two years
+after the book had published, they're already here. - We even have this
+illustration in the book of a person going online, doing a telemedicine
+interview with a doctor and having medicines
+delivered to their home, in that case, by drones. But we're pretty much already
+there, thanks to the pandemic. - Yeah we are and I think
+there's a lot of other things that are just coming a lot faster than we could have even envisioned. And also in part, because of the pandemic, because the pandemic has really brought so
+many of us face to face with some of the constraints
+of how our world was organized in the before times and how
+that it's not very flexible, it's not very responsive to the needs that we are experiencing,
+not just in the pandemic, but also as we reorchestrate
+our lives in the 21st century. - Yeah, and even when we wrote the book, there was pushback even
+within our conversations, how realistic is it that people will take their own healthcare, medical care into their own hands and would they be allowed to? And we've been rapidly
+pushed into to that world, where you can take home tests
+for pretty much anything. You can have blood tests
+for pretty much anything. Of course, doctors have to be involved, but you don't have to go see a doctor- - You don't have to go
+to a doctor's office. - Right, and in the future, it's going to be rarer
+to go to see your doctor. Most of it's going to be done remotely and you won't even know the doctor that's involved in prescribing something. - And thank God, really, because there's really no
+experience people like less than going to the doctor.
+- Well- - If you can do that in
+the comfort of your home, it's going to be a better experience. - Well, yeah, I was pretty
+sure I would get sicker when I went to that waiting room with people coughing
+and sneezing everywhere. Hospitals are just as
+bad, it's pretty risky, particularly as an older
+person, going to the hospital. And if you don't need to, if
+you can be monitored at home, which is increasingly possible, then a lot of people won't
+die from an infection that they would typically
+get at the hospital. - You said monitoring, and I think this is a overarching theme of this podcast series so far. One of the things we've
+said again and again, is that you can't impact
+what you don't measure. And so today, we're going to
+talk a lot about wearables and implantables, and we're going to talk
+about how these innovations, along with scaled access
+to biological aging clocks is going to change the
+way we address health. - Yeah, and before we get to that, this podcast is made available freely. And the reason is we have sponsors that help us monitor our bodies and keep the nutrition
+at the right levels, based on that feedback. Our first sponsor is Levels. Levels is an app that syncs with a continuous glucose
+monitor, which they provide, and interprets your glucose data for you. I've been so impressed using Levels, that I recently joined the
+company as a scientific advisor. By monitoring your blood glucose, Levels allows you to see how
+different foods affect you. I've had fun running tests of my own, seeing how different foods
+impact my blood sugar levels. For example, I've learned that white rice really spikes my blood sugar,
+whereas potatoes don't. As we've discussed on this podcast, having stable blood
+glucose is very important, not only for daily mental
+and physical energy, but also for long-term health. So if you'd like to try Levels, you can skip the 150,000 person wait list and go there straight
+to the top of the line and join today by going
+to levels.link/sinclair. That's levels.link/sinclair. Today's episode is also brought
+to us by Athletic Greens. Athletic Greens is an all
+in one daily greens drink, that supports better health
+and peak performance. It's developed from a
+complex blend of 75 vitamins, minerals and whole food
+sourced ingredients. It's filled with adaptogens for recovery, probiotics, prebiotics, and digestive enzymes for gut health, along with vitamin C and zinc
+citrate for immune support. I've been drinking Athletic
+Greens each morning for a number of years now, as a way to cover all
+my nutritional bases. I'm often traveling, sometimes
+my diet isn't the best, and as what happened today, we ran out, and it was really painful
+not having a start of the day with Athletic Greens. So if you'd like to try Athletic Greens, you can go to athleticgreens.com/sinclair and claim a special offer. They're giving five free travel packs, plus a year supply of vitamin
+D three for immune support and vitamin K two, which keeps the calcium
+out of your arteries and keeps it in your
+bones where it belongs. Again, go to athleticgreens.com/sinclair,
+my last name, to claim the this special offer. Today's podcast is also
+brought to us by InsideTracker. InsideTracker is a
+personalized nutrition platform that analyzes data from
+your blood and your DNA to help you better understand your body and reach your health goals. I've been using InsideTracker
+for over a decade and I'm the chair of their
+scientific advisory board. The reason I've long used InsideTracker, is because they provide the
+best blood and DNA analysis that I'm aware of. They make it easy to get your blood drawn, you can either go to a nearby clinic or, like I do, have
+someone come to your home, it's really convenient. From there, InsideTracker
+analyzes your data and presents that data in
+an easy to understand way. Another feature that InsideTracker offers is their inner age test,
+which I helped develop. This test shows you what
+your biological age is, and how it compares to
+your chronological age and what you can do to
+improve that number. So if you'd like to try InsideTracker, you can visit them at
+insidetracker.com/sinclair, and then you'll get a 25%
+discount off any of their plans, Use the code Sinclair, my
+last name, at the checkout. - Okay, so David, let's get into this. And to do this, to talk about the future, we have to talk a little
+bit about the past, we have to talk about the
+world we're in right now when it comes to healthcare. Right now, our healthcare
+system is based on a model that has developed over
+the last few hundred years. And that model basically amounts
+to wait till you get sick, then go see your doctor. And when you and I have
+talked about this before, you said that actually
+makes plenty of sense in the context of the
+19th and 20th centuries. - Well, it does, because
+doctors had no way of knowing if you were sick, other than asking you how you feel, and they couldn't do that remotely, certainly not through video, but they also needed to feel you and to take samples in the office. Right now, you can wear a biosensor, a monitor or do a blood test
+from home or a local clinic, that will give the doctor
+way more information than they could ever get
+by seeing you in person. So a case in point, I saw my
+doctor maybe six months ago and I hadn't seen him for a year and it was a video conference, and it was supposed to be
+very quick, 10 minutes. He said, "David, how do you feel?" "I'm feeling good." "How are you sleeping?" "Not so good." "Well, you should get more sleep, "try to not do your emails too late. "Anything else you want to talk about?" And I said, "Yeah, there's a lot. "I'm, you know, 52, I
+could have colon cancer, "I could have all these other issues. "Let's do some tests." And he says, "Well, okay, what
+kind of tests do you want?" So I said, "What about
+a prostate cancer test? "You know, for my age, I
+could have prostate cancer. "My neighbor just died
+from prostate cancer." And he said, "Well, do you
+have a family history?" "Not that I know of." "Do you feel sick?" "No." He goes, "Well, then there's
+no need to do the test." I said, "Hold it right
+there, hold it right there. "Are you telling me "that I need to have a
+large tumor in my prostate "that's causing me to be sick,
+before I come and see you?" And he said, "Yeah."
+- Yes, right. - Yes. That's craziness.
+- And that's model of medicine in the 20th century, right? - And then, it's often too late, then I'm on my way to death. So these days, there are
+tests that you can do that your doctor can order. There's a new one that's
+just about to be released by a company called GRAIL
+and there are many others, that, with a finger prick or a little blood test
+from a local clinic, you can detect 50
+different types of cancers before they even become tumors and kill them years
+before they would show up and have you go to a doctor,
+which is often too late. - Let's talk about why that is, because when a cancer cell starts to form, when a tumor starts to form, it begins releasing into the bloodstream these
+signalers, blood analytes. And if we can detect those, we can detect cancer at the
+very, very earliest stages. - Well, that's right, and they give off a lot
+of different signals. Out of the breath and in the bloodstream, they leach proteins, they leach DNA, RNA, and even the types of DNA that come out, those little fragments,
+they have little ends, it's not the whole
+chromosome that comes out, they get chopped up, the cancer cells die, and out come these little pieces. Those pieces have chemicals
+on them, the DNA methylation, the clock that can be read, and even at the ends, how they were cut up
+by enzymes in the cell, can tell you, indeed, that is a stage one liver cancer, even though we picked it
+up in the bloodstream. - Which means we don't now need to wait for a tumor to grow, to metastasize, for it to spread into
+other systems in the body. There is increasingly a chance of catching these kinds
+of problems earlier. And it's not just cancer, it's a lot of diseases, heart disease, which is not a cancer, right? Also, there are signs of heart disease that you can pick up through
+these early warning signals. - Exactly, so with the cancer, we've been slowly reducing
+the incidence of cancer and particularly the
+ability to survive cancer and we haven't cured cancer, but it's gotten a lot better, particularly for diseases like breast cancer, lung cancer, too. What I'm excited about is
+that this new development that's not come from oncologists, but from people who develop these tests, the geneticists that can find blood, what's called circulating DNA. This is going to dramatically reduce
+the incidence of cancer and certainly the death rate. Why? Because if you catch a
+tumor when it's small, you take some chemotherapy and you kill it off before
+it spreads and it's too late. So that's cancer. Heart disease. Heart disease you can
+measure through blood tests, so we do InsideTracker, you can see that there
+are inflammatory markers that predict cardiovascular disease. But also, what's coming along, that'll be added to those blood tests is the ability to measure
+your heart's function. So I wear a device that's right here, this one's called a BioButton, you can see it's about an inch. - You know you want to
+take off your shirt. - Do you want me to take off my shirt? - I mean, I don't personally need you to take off your shirt, I just know that you've been
+waiting for the opportunity to take off your shirt on camera. - That is not true, but I can show... - He's been waiting for the opportunity, he's shy now, but he wants to do it. It's like Iron Man. - We don't need to talk me taking- - You have like a little device right in the middle of your chest. What is this thing? Okay, tell me what is this
+thing monitoring right now? - Well, so instead of going
+to your doctor once a year for an annual checkup, this thing's monitoring my
+body 1,000 times a second for vibration. It can hear how I speak, how I cough, it's looking at my movements, how I sleep during the day, how I move. But most importantly, for this device, it's measuring my heart
+in many different ways. It's actually an FDA approved EKG, this is something that you have to put
+stickers all over your body, the doctor used to measure it, sine waves and whatever, you can now do it with your wristwatch, though that's not FDA approved. This one is the real deal. Doctors use this information
+to diagnose patients. And what's it's being used for mainly now, is to send patients home early, who have experienced a heart attack or have had heart surgery, just to see if they're
+doing all right at home and hospitals save tens of
+thousands of dollars that way, for something that only costs about $20. - But why wait for somebody
+to have a heart attack, and then send 'em home with one, if you can put them on people who are at risk of heart attack, or even before then they become at acute risk
+of heart attack, right? I mean, like if we can start
+monitoring people early on, figure out what their normal rhythm is, be attentive when that
+rhythm starts to falter, we can catch things really, really early. We will. There's a future already that's here, that this device will
+send an note to my doctor or a nurse that's scanning hundreds and eventually millions of people. And there'll be a red alert, it'll be like "Minority Report", I've seen this actually in development, you call it up, "Here's David's heart. "And the kidneys are
+also having an issue." The doctor then looks at it, he probably, or she,
+is playing a golf game or doing something else,
+but they can see it. They go, "Okay, this person's
+about to have a heart attack. "Send in the robot." This might be a molecular dynamics, like Lex Fridman's robots. - Okay, yeah, and I want
+to talk about the future, but I think we need to
+first sort of, like, set the stage for what's
+actually going on right now, because it's not just heart monitors. That thing is not monitoring your blood, but you're also wearing,
+and I'm wearing also, something that is actually
+actively monitoring our blood. - Yeah, this is the Levels
+continuous glucose monitor, it's on our arms here. And we've been playing
+with this the last week. Together, we've been competing to see who's got the
+lower blood sugar levels. And we just measured it
+before we went on air and we're identical. So that's- - You're winning, like, by a
+percentage point right now. - Right, but we're both healthy, and what we've learned
+by eating meals together over this past episode, is that what we eat really
+makes a big difference. So things like rice and grapes, for me, really spike it, potatoes, not so much. Have you learned anything
+with this device? - I feel like I've learned
+more about blood sugar in a week of wearing this device, than I knew about in my
+entire life before then. Now, I should say, I'm not
+diabetic, I'm not prediabetic, so really, like, under the sort
+of the traditional paradigm of how we diagnose and treat diseases, there was no reason for me to
+know what my blood sugar is. But I'm realizing now, like, honestly, like realizing now that,
+like, there is a reason, and the reason why is it
+fundamentally changes the way that I think about the foods
+that I'm putting into my body, because I'm now thinking
+about it in context of, "Will this do something to me "that I know is not very good for me?" Which is spike my blood sugar. - Yeah, exactly. And it's similar to
+scales in your bathroom. It's knowing that if you're told to weigh yourself every morning, you will lose weight more often than not. And I liken these two to scales, we can measure our bodies. I mean, who's to say, we're not allowed to
+look inside our bodies. There are doctors who don't believe that these should be allowed
+to be freely available. - Well, in fact, you have to have a prescription
+for this right now. - You do, you do. And, you know, until
+further studies are showing that they're safe, you know,
+that's a reasonable thing. But I do believe that
+people have the right to look inside their bodies
+and we can interpret the data. - And shouldn't wait until
+they're diseased to do so. - Exactly. So right now, there are some
+in the medical establishment that think that these should
+only be used for diabetics. My argument is are bathroom
+scales only for those who are morbidly obese? No, anybody can use them to
+tell more about their bodies and how they can improve. - Wearables have come a really long way. So this is a blood glucose monitor. Sort of, like, there's
+a long and rich history of blood glucose monitors, these were sort of the first
+wearables to come along, and the first at home test
+that people could use. - Right, the history's pretty interesting. The first ability to
+measure glucose in blood was way back, 1962. It wasn't until 1973, that there was a desktop or
+more like a bench top analyzer, it was more like a fridge. - This thing was huge. - It was massive. But no, so 1973, you could finally send
+in a sample of blood and have your glucose measured. And that's how it's been done for really up until
+these devices came along. Increasingly, we're now seeing wearables being able to do it. Watches, these semi-invasive needles. Eventually what we're going to have, is the ability to incorporate
+it into one of these stickers and not just one
+measurement, but hundreds. - And that's really where things start to get very informative
+and very interesting, because what you can do is now you can decide based
+on your genetic profile, your propensity for disease, perhaps even the way that your genes have been
+methylated over time, you can decide what the biomarkers are that you need to know. And you can do this in
+consultation with your doctor, another advisor who understands these
+things, you know, best. And you can say, "Okay,
+what I want to watch "is for this and this and this." Right now, you can look at... Pretty much, lots of people have access
+now to blood glucose, but we're going to be able to look at all sorts of other blood biomarkers. - Yeah, there's an interesting point that it's kind of the end of
+the story about my doctor. Even though my doctor was reticent and eventually capitulated in giving me that prostate cancer test, thank you, Dr. Peter. - And you're all good? - I'm good, yeah, right?
+- Yeah. - And it's very simple
+test called the PSA test, if you're wondering. But what's happening is it's not that he's a bad doctor, it's that the medical system is not set up to give tests willy nilly to
+people that aren't yet sick. And that has to change.
+- Well, they're not covered by most people's insurance, unless you reach that threshold. Again, like this whole system, right? Like, the insurance system says, "Yes, we will pay for it, "but only once your diseased." Which is as backwards. - It is. And there are countries
+that have realized this. So Australia provides sunblock on beaches, they also provide free colon cancer tests, you just poop and send it off. Everyone in Australia gets
+a free colon cancer test. That saves billions of
+dollars down the line. Today, in the US, pretty much you have to pay
+for a lot of this yourself, but a lot of people
+realize that it's worth it. And getting back to my doctor, what he said was, "Oh, you have all this
+data from InsideTracker. "Let's look at it." So I call up on the screen all
+the data and he's loving it. So doctors, at least in
+the case of my doctor, he's not upset that I'm measuring myself. In fact, he would do it for everybody if the insurance would pay for it. - Yeah, yeah. So I also have a very old school doctor and I love him to death, I'm going to actually
+go see him next week. I'm really looking forward to bringing my chart
+to see him, because... - From the Levels data? - From the Levels data, yeah, because I think that this is going to inform our conversation in a way that we've never had before. - Well, exactly. And it's just the beginning of being cognizant of
+that your body matters and is changing all the time, and there are days and months where it's going to be way out of whack and you wouldn't know unless
+you were measuring it. And it's all about, as we
+wrote in "Lifespan", the book, you need a dashboard for your body in the same way you need
+a dashboard for your car. You wouldn't drive your
+car without a dashboard. Well, you could, but you
+wouldn't get very far, you'd run out of gas. We need that for our bodies, and it's really time that we do that. And what we'll have is a massive reduction in diseases like all cancers,
+but colon cancer already. We're going to have heart attacks be a thing of the past pretty much, 'cause your doctor will
+know days in advance before you actually have a cardiac event. And other things, even
+including depression, anxiety, these can also be measured by the devices that we have on our bodies or even in our hands
+or the ones we type on. These indicate diseases. Speaking of typing, you can tell if someone's
+getting Alzheimer's or Parkinson's just by how they type. - Also by their movements
+around the house, there are systems that are doing that now. Again, before we get too futuristic, this is one of the things I really like- - I want to get there.
+- About our conversations, You're always like, "Let's
+talk about the future." But I really want to talk about
+what's available right now, because right now, if someone wants it, there are a variety of products that take a variety of measurements. There are glucose monitors
+like we're wearing, there are lactate monitors, there are body fat, muscle mass, body fat percentage monitors, ECGs, caloric intake,
+temperature, UV exposure, sleep quality, blood oxygen. Those are the things that are
+just on the market right now that you, like, just type into Google, "I want this kind of monitor." You can get it. What are the, like, five biomarkers that you would want to have? If I just said, "You can
+only have five this week. "What are the five that you would want?" - Well, I'm already
+measuring a lot of those. So glucose-
+- But you're doing it with InsideTracker, which is a regular, like, what? Monthly or bi-monthly- - It's not constant, that's true. - Yeah, so what would you want to be able to monitor constantly right now? So I would want one of these devices to not just tell me glucose. I want it to include heart function, which I'm doing as well. But I also would include inflammation. So there's a molecule called CRP, which I always want to keep low, 'cause that's a really good predictor of cardiovascular disease. - CRP is? - C-reactive protein. And so we've got glucose,
+C-reactive protein. Inflammation, so this would
+be TNF alpha or IL one, six, these are also predictive of longevity. I want cortisol, keep
+my stress levels down, or also telling me if I overexercise. - I would love to see your cortisol chart. - I have it all, I've got
+10 years of data, dude. - Like, no, I would
+love to see your, like, minute by minute cortisol chart. - Oh, well, yeah, hanging out
+with you raises it for sure. - And then, I think that's four. The fifth one, let's see. I would like to know... Lactate would be great, because that would tell me if my body is able to deal with exercise adequately, and maybe blood oxygen, too. So when I'm exercising, making sure that I get hypoxic, which, as we've talked about, is one of those adversity
+mimetics that turns on your body. Well, it is an adversity, but it's a hormesis that doesn't kill you, but makes your body
+stronger in the long run. - In the very near future, we're going to have wearables
+and semi-implantables, by which I mean like things that maybe stick a small needle into your arm very painlessly, like the Level sensor does. In the sort of still
+fairly near-term future, but a little further out, nano biosensors. - Right, and they're being developed, I can already get those from companies. They're not yet commercially available and I've tried these out. This one will measure a variety
+of things through the skin, including analytes, glucose eventually. There are companies that
+are, including Levels, that are going to be
+measuring hundreds of things, that include the things that I mentioned. These nanosensors they use, they don't just use
+these chemical reactions, they'll have antibodies
+that can detect proteins, that can detect DNA, methylated DNA, and they'll be implanted,
+eventually, under the skin. So they may last for months,
+you just recharge them, put one of those coils on the hand, maybe for an hour, who
+knows, five minutes, you've recharged this
+thing and you're good to go and they could stay in you for life. And we were discussing this earlier, we had got into a bit of an
+argument before we went on air and maybe you want to hold me back, because this is a longer discussion. But I think that everybody should have a biosensor in
+their body at every age, so that parents, doctors, can monitor how people are doing and make better decisions
+about food and lifestyle. - Well, and the thing is, is that we are very quickly
+going to be entering a world in which there is so much data that we're gathering by ourselves, that it's just going to
+become incomprehensible to process by itself, and there's going to be a lot of noise, the signals are going to be hidden, we're going to need AI to
+help us understand this, which means that it's not just about
+wearing the monitor 24, seven, it's also about where the data goes. This is the real concern that we were having
+this conversation about. And what that means, is that it's going to have to be
+uploaded to a cloud somewhere, to, presumably, a company. I don't think most people want a government doing this for them. Although, in some countries, we know that's probably
+going to be the case. We're starting to tread into a future that I think a lot of people are rightfully a little bit nervous about or a lot nervous about. - Well, it's going to be a company, the government is not
+developing these things, and there are many companies
+doing this, small and large. We know Amazon and Google, Apple, they have their health divisions. But there are a lot of little
+start-ups developing devices that may be acquired or may become the next healthcare giant. It is a problem though,
+that this data is massive. There's terabytes of data
+that I'm collecting on my body and multiply that by a
+billion or so people, that's going to be a lot of data. First of all, where do you saw it? Who owns it? What will be done with it? Is it anonymized? Is it under the HIPA act, hopefully, in America, that will protect it from
+being used against you. I was on a podcast with Lex Fridman and he brought up a
+really important point, which was we have to
+have these rules in place before we start giving
+all of this data away. And he would want, one of the main things is
+that you have the right to delete your data if you choose to. And I don't think we're there yet, a lot of these agreements
+don't include that, but that would be something that we should definitely
+start a conversation about. I'm in touch with some senators and Congress people about that. This is a world that's coming, it's not a question of if, it's just when, and it's only in the next few years, that these rules should be put in place. - Yeah, I mean, nobody should
+be waiting to talk about this, this is an important thing
+that we need to get right, and we need to get it
+right really quickly, because the technology's not waiting for the laws to catch up. One of the other things
+that we should mention is, particularly when we're
+talking about genetic data, when you consent as an individual to release your genetic data, you're not just making a personal choice, you're actually making
+a choice for your family who share genetic data with you, your parents, your children, this is not just a personal decision. - Yeah, so every time one of
+your relatives puts their DNA and their genetic data into
+a database, it affects you. - Yeah, it's not just their information, it's your information, too. - Yeah, and so one of the
+uses of this, obviously, is that your family
+learns about their health, but another aspect is that you can use it
+to solve cold cases. In the case of the Golden State Killer, a case where there was a man, for decades, going around murdering people, 13 murders, 50 rapes, 150 burglaries. They finally found a
+hair from this individual that didn't have the roots,
+but there wasn't much DNA, but Ed Green and his team
+at a company in Australia that I work with, they were able to get
+enough DNA out of that hair to track him and find a relative of him in one of these databases. - Using one of these public databases, where the relative had
+freely, voluntarily, given their information. - Right, and triangulating other aspects that they knew about this individual. They said, "Ah, this is the guy." And they arrested him
+and he's in jail now. - And there's been lots
+of police work like this in recent years, and I think a lot of people look at that and they go, "Oh man, that's really great. "What a great application." The same technology used by a government that wasn't looking for a
+murderer, but a dissident, or, you know, like a journalist, could be really, really dangerous. - Right, so that's why these
+laws need to be looked at and made sure that they are totally tight so that they're cannot be a dictator or some sort of change in government law that can use this data
+for nefarious purposes. - The other way that our health
+data affects other people is in infectious diseases. And so, there's another
+question here about, okay, so let's say like a
+well-meaning government, right? Identifies a contagious virus, right? And we can track these
+things now with, you know, millions of people wearing
+biomonitors everywhere. You get a spike in one of these analytes, and all of a sudden
+whoever is tracking this, wherever they are, knows, "Ah, there's a virus
+here, it's spreading." And I think we're all a lot more cognizant of, like, what this kind of looks like and feels like in the era of COVID, but, you know, what if it
+was a disease like ebola, not COVID, which is, by itself, very, very dangerous and very
+deadly for a lot of people, but what if it's a virus that's
+deadly for almost everyone? - Right, there will be
+big decisions to be made by governments as to what is privacy and what is collectively good. And we've seen that over this
+relatively minor pandemic, the big one is going to come
+in our lifetimes, probably, as we wrote about in "Lifespan". I'm on the front lines of this as well. I was building a company, have a company called Arc Bio, that is able to detect viruses and fungi and bacteria in human blood, and any sample, from a spit sample, in the effort to get ahead of COVID-19. Now, it came a little too
+early, we weren't ready, but there are patients now that are being monitored by Arc Bio's technology with a blood test, that sees everything in the body. And instead of pulling out
+the human DNA from a hair, what we do is we pull out the human DNA and see what's left behind. And those are the pathogens, and we can actually diagnose
+an infectious disease without even knowing what to look for. - There's a lot of implications here that once again, like, you know, we should be talking about
+now, rather than waiting. If people are going to be engaged in anything about the internet of things or what some people are
+calling the internet of body, this is the thing that we
+should really be focused on and talking about. Because it's not just voluntary
+patches that we're wearing, we're figuring out lots of different ways to collect this information, it's going to get easier and easier, and a lot of people are going to do this, because it looks convenient. - Yeah, well, let's go
+through some of the sensors that are here now and ones that are just
+about to come on the market. Look at me, I'm wearing
+the blood glucose monitor, which we've talked about, we love. I've got a ring that measures my sleep and my heart rate and my movement. Really need to focus on sleep. This helps me, it makes
+me cognizant of my sleep. I've got one of these
+watches that does heart, it does movement, walking, exercise. So I'm already a bit of a cybernaut- - And you've got that one on your chest. - Well, don't forget, yeah, this one's not commercially
+available, but will be soon. - Right, and you're doing the
+InsideTracker blood draws, - Right. So I know a lot about my body and I've actually been getting healthier and fitter over the years
+because of it, it's no accident, and I love what I'm able to do. I'm a scientist and I can correct things when they're out of whack and not optimal, and I wouldn't be able to do
+that if I didn't monitor it. But I'm excited about the other things I'll be able to monitor
+right now I'm blind to. Speaking of which, contact lenses. Contact lenses are one area you can measure blood glucose levels. There are tooth sensors, you can measure bacteria in your mouth. You can also, currently, through
+Viome and other companies, I was talking to the CEO of Viome the
+other day, Naveen Jain, he's got a colon cancer test that works better than
+anything on the market, but he also can see health and give you supplements that
+will improve your health, based on what's in your gut, and that's going to be monitored as well. I'm not sure how, maybe in the toilet. - That's a poop test? - Right now, you send off your poop, but eventually there'll be a
+device in your home, I imagine. - Which is literally something
+people are doing right now, is they're sending their poop by mail to- - I've done it.
+- Yeah. - Yeah, it felt weird going to the store with a box full of my poop, but I did it in the case
+of a colon cancer test, which a lot of Australians
+are doing just normally. But it is weird. - We should probably say,
+it's not a whole poop. Wait, did you send a whole poop? - Well, what do you think it is? - It's just a swab. - I think it's a fairly
+large piece of poop in a jar. - Wow. Okay, so this is the
+reality that we live in now. - It was a big bottle, and then you put in liquid
+and you shake, it's gross. But I learnt that I
+didn't have colon cancer, so that was worth it. - It's probably worth it, right. And I think a of these... I mean, sort of like the
+overarching theme here, is that a lot of these
+things come with trade offs. They come with the trade off for the potential for embarrassment, there are privacy implications. We have to measure those trade offs against what we potentially can gain. Some of these other biosensors
+are put into mouth guards. - For lactate? Or is it uric acid? - The mouth guard biosensors, I'm not sure what they're using. Although, I have heard them implicated in, like, youth athletics, because when you have a concussion, you immediately start to
+see markers in the blood. And so, presumably in the saliva too, those can test those. There's temporary tattoo biosensors, and there's also sweat
+microfluidic biosensors that can detect all kinds of hormones. - Right, and then eventually, we'll have these optimized
+athletes as well. Already they're wearing a lot of devices, but eventually they'll be
+monitored for all sorts of things, like a Formula one racing car. - Well, but what you're suggesting though, is that eventually everyone will, from pretty much every
+age, be being monitored, you said thousands of times each second. - Doesn't it make sense? It makes sense to me. I wouldn't want to walk around, potentially going to have
+a heart attack tomorrow or having cancer grow on
+me and not know about it. I want to know this stuff. And that's what I think
+will lengthen our lives by another decade, beyond what we're able to do
+with changes to lifestyle. - Let's bring this
+together with aging though, because so far, what we've really been talking about is the transitions that we
+can see in our biochemistry that take us from states of
+wellness to states of disease, that's really important. How aging fits into
+this is also important. - Well, there are a number of ways to measure your biological age. I've used InsideTracker
+for over a decade now to steadily get ostensibly
+younger biochemically, over that decade. I was 48 and it spiked, my age went up, based on their inner age test. And then I changed my lifestyle, I started taking NMN, Metformin, and got that number, inner age, down to 31.4 in a matter of months. That doesn't mean I
+was literally that age, just means that my blood
+biochemistry markers matched somebody that was more like 34. - Right now, in order to have
+your biological aging assessed through one of these methylation clocks, it's pretty expensive,
+it's really time consuming, it can take weeks, if not
+months, to get results back. You're involved in an effort to try to bring down both the price point and the time period that people have to wait to
+learn their biological age. - Yeah, these tests
+aren't perfect right now, they're fairly expensive, they take weeks to get results. But that's going to change. The student in my lab,
+you know Patrick Griffin, he spent his PhD trying to
+figure out how to make it cheap. And he figured it out, we've just put a paper online. Viewers can go and download that, it's at a site called bioRxiv, Sinclair, Griffin,
+keyword TIME-Seq, S-E-Q. That paper is describing a way to do this methylation
+clock for 1,000 times less. We're spinning out a company, we're in the process of
+hopefully in the next few months, having a product available. So people can at home do a cheek swab and routinely measure
+their biological age, which is important, because there are ways to
+slow down and stop aging, soon, reverse aging, and without that test, you won't know what's working for you. People can sign up, we
+haven't got the product yet, but there is a website,
+it's doctorsinclair.com, spell out the word doctor,
+doctorsinclair.com, and you can get on a wait list. Do that, because the more people we have, the more experiments we can do together to figure out what slows
+aging and even reverses it. - Once you have that number and bringing that together
+with all of these other metrics that we've been talking about, the measurements of the microbiome, the measurements of the blood analytes, all of the stuff that you're getting from, like, your smartwatch or whatever sensors you're wearing, you can start making decisions
+in your day to day life. Let's talk about some of those. What does this look like in terms of the way that
+we eat in the future? 'Cause what we've already said
+is you've got to eat better, but this is eating better and
+eating more informed as well. - Yeah, well there are
+a couple of companies that we're involved with,
+and they support this show, that tell us what we can eat. So Levels is telling us what's bad to eat for raising blood sugar
+and what we should avoid. The app, actually, we were
+looking at this together, you can compare foods with
+this app, which is fun. InsideTracker also provides
+nutritional recommendations, you might want to... If you're deficient in vitamin D, they send you off and you
+should eat more salmon, they even have recipes. Suffice it to say that
+we're entering a world where you'll be able
+to look at your phone, it'll tell you what things to buy at the shop, at the supermarket, and even what local
+restaurants you can go to and which meals you should
+have to optimize your health. - Once we have all these measurements, you can watch your biological
+clock from week to week, you can watch your blood analytes go up and down within the
+course of a single day. - Your heart. - You can watch your heart rate, you can watch all of these things. Once you have those things, you can start making decisions
+about the way that you eat, which is really one of the biggest ways that we can impact these. - Well, that's what I do. It's not just that you can, you should. And the sort of decisions
+that you can make are, okay, if you're
+deficient in vitamin D, you can be directed towards
+eating certain foods, like fish, that have vitamin D. Or if you have certain
+high levels of cortisol, reduce your stress, do meditation,
+don't exercise so hard. These are tweaks to your life that otherwise you wouldn't
+know that you needed to do. - And the apps that will sort of, like, help you along in this regimen, you're not going to be expected to know all of this stuff yourself, they're going to lead
+you through the process. - Well, they do. Most of these apps are
+taking a lot of data, it's often terabytes of data, and distilling it down
+into a few simple steps for you to do each day. - Even if you're doing everything right, you're eating the right way, there's still times
+that these measurements are going to tell you, "Hey, actually, "you're missing out on this." And so now, we're getting
+into this conversation about, like, perhaps supplementation as well. - Yeah, that's a key component. It's particularly important for people who are on specialized diets, say, if you're a vegan or a vegetarian, you're going to be lacking
+in vitamin B12, probably, you may have low NAD levels, because you're getting older, you measure those, and then you'll have
+recommendations to supplement and bring those levels
+back to an optimal level. They'll probably recommend,
+"Go get that brand." Or, "Go get that." Right now, it's very difficult, you don't know what brands to choose, I'm working on a way
+to solve that as well. But ultimately, I think what's
+going to happen is in our homes, we're going to have a machine that can give us a poly pill with the minerals, the vitamins, maybe even the medicines that
+we need, right on the spot. - Feels like a little compounding pharmacy right on your kitchen encounter. - And this isn't crazy stuff. Daniel Kraft, an MD, a good friend of mine
+from Stanford University, has a company that's built a machine
+that's not yet available, that does mix those minerals,
+vitamins, and even medicines, right there on your kitchen
+countertop every morning. - And the thing about this, is that what we're talking
+about then are, you know, pills that are created
+specifically for a specific person, as opposed to what we get right
+now when we go to the store, which is a capsule that is the size that some average person
+needs, whatever that means. - Right, it's not even male
+and female half the time, but even if it is, it's, "Oh, men take
+this, women take that." Not even asking how much volume or how much does that person weigh. We can be, you know, some people, three times heavier than others. - Right, on the side of,
+like, the Tylenol bottle, it says like adults and children. Like, there's nothing else to consider- - It's ridiculous.
+- Right? - Right, but these pills
+that are made in the home, they're going to be made
+specially for you, for that day, for that time of day and
+for what you've been eating. - And for your genome, too. - Exactly.
+- Right? Because people have different DNA, process and metabolize different chemicals in different ways. Once that's worked into this, we can really, really start to pinpoint what people actually need, as opposed to what most
+people need most of the time. - Right. And actually, medicine
+as it's currently called, is based on an average person. And so, those ranges that doctors look at to say, "Oh, you're sick. Or, "You're not." Are based on an average human and doesn't take into
+account often your history, your genetics, what you've been eating, how biologically old you are. And these things should be
+brought to bear as well. And eventually, doctors
+will have this information and all be assisted by AI. But right now, we're in
+that transition zone. And interestingly, the AI
+is being used by customers, not by doctors so much. - These tracking devices and the measurements that they give us, are also going to help us understand how to exercise more effectively in a way that will help us not just bring down
+these individual levels, but also presumably bring down
+our biological age over time. - Already, we can do that. The ring that I'm wearing,
+the wristband, this patch, they're measuring my
+heart rate constantly. They're looking at heart rate variability, which you want to be high. They're also looking
+at resting heart rate, which you want to be low in general. There are certain ways to improve that, there's running, there's weights, there's yoga, even meditation. The apps will soon be so sophisticated, they'll say, "Okay, today you
+should go on this run here. "I'll send you on a map. "This'll be nice. "It's good weather." Versus, "Oh, maybe today you need a rest. "You've got a bit of cortisol. "You ran yesterday, do
+some weights today." And that is going to be
+optimized, in addition, with the supplements. They're going to say, "Okay,
+don't take this supplement today, "because I'm going to tell
+you to go lift weights." - I imagine this world where, like, Siri becomes your personal trainer. - Pretty much you're going to
+have a guardian angel for health, and when that happens, you're going to look at the days when we went for an annual physical as though those days are medieval. - There's not going to be a
+one size fits all solution for everybody when it comes to exercise, just like diet and supplementation, right? Everybody's going to be different. - Well clearly, and I
+say this all the time, when I give talks, people ask me, "Well, what should I do? "Tell me what you do,
+David, and I'll do that." Well, that's what people should do, because everybody's different, genetically, physically, even mentally. What I can do, skip meals,
+some people cannot do. So even though on, as
+I often say, page 304, I listed what I do in the book, that's not the perfect prescription for everybody, of course, because everyone's different. So you've got to measure
+yourself like I do and see what works for
+you and what doesn't. - Before we get off the
+subject of exercise, I wanted to talk a little bit about this idea of exercise mimetics. Right now we know,
+particularly in animal studies, the mice in your lab are getting an exercise benefit
+out of consumption of NMN. But NMN is a pretty rudimentary molecule, it's not a designer, it's pretty simple. There are new drugs coming down the line, as we're talking about the future, is there a point in
+time in which, you know, these supplements, these drugs, are going to allow us to be our slovenly selves
+without consequence? - Well, we're not there yet. And in fact, what the
+data says from my lab, is that when you give
+NMN and you exercise, you get the best benefit. So it's not an excuse to sit
+around and just pop a pill, but there is a need for better medicines. The reason that I'm developing, at one of my companies,
+a better NMN version, is that the elderly and people who just came
+in with a heart attack or have kidney failure, they cannot be on a fasting regimen easily or asked to go for a run. So you do need to be able to deliver these with a pill or with IV. But for those of us who are still fit, the best bang for the buck, at least with today's technology, is to eat right, move right, and supplement in a way that
+you can see by monitoring, what's optimizing your body for longevity. - Ultimately, one of the places that you think we may wind up, is a world in which we can reset the clock through a course of treatments. And you've done experiments
+about this in your lab, you've had quite a bit of success with mice in doing this, and this is what the Fahy
+trials seem to be showing in Southern California. Let's dive into that, because this is not immediate, but it is likely down the road somewhere in the fairly near future. - Well, so Greg Fahy, the professor out in California who's doing this with patients and published with Steve Horvath, they're seeing a couple
+of years retreat in age in 12 months of treatment, with a combination of three factors that we discussed in an earlier episode. But this is just the beginning, this is the early days of flight, we're just learning how this works, but very rapidly over the next few years, we're going to learn what else
+can reverse the age of the body, certainly the blood clock, which is what's being used right now. And there are reports
+of people going back 10, even 20 years with certain treatments. So this is a golden
+age for aging research. I didn't realize when I
+started out in my career, I didn't expect to be
+talking about age reversal, I thought, "Oh yeah, we'll,
+we'll slow down aging "and that'll be the best, if we're lucky." We're in a world, that for me,
+is science fiction already, we're way beyond my expectations,
+which is super exciting. - The other thing that you're working on, and I think a lot of people
+are really excited about, is this idea of an epigenetic
+reset of biological age. This is stuff that you're
+doing in your lab right now. Let's talk about taking mice and reversing their biological age. - Right. So we're talking about a gene therapy. We found that there are three genes that are normally turned on in
+embryos that keep them young, that we could turn on
+again in the adult animal and in human cells. So it works in both species. But in the mice, we could manipulate
+them to see what happens when you rejuvenate their
+tissues using these three genes. What we-
+- And the genes are? - Well, the they're called oct
+four, SOCS two and KLF four. These are what are called
+transcription factors, proteins that bind to DNA
+and turn on genetic programs. - And they're part of the series of genes that people call the Yamanaka factors. - Yes. So Shinya Yamanaka from Japan, won the Nobel Prize in 2016 for
+the discovery of five genes, three of which I've just
+mentioned, there are two others, that were able to take
+cells, an adult cell, back to a pluripotent stem cell stage, like basically age zero. And then, you could... We do use these cells
+to build other tissues, they can be turned into
+nerve cells and muscle. But you don't want to do that in the body, you'll become the world's largest tumor. So we found that a combination
+of three of these genes and leaving out the
+other two dangerous ones, was a perfect way to
+reset the age of the body, without causing cancer. And it worked better than
+we could even predict it. We put these genes, using a virus, into the eye, for example, we could do the whole body as well, but let's focus on the eye. - You did into the eye of a mouse. - It's a mouse-
+- Yeah. - We hope in a couple of years, we'll be testing our first human, and right now, we've done mice, we're now doing non-human primates. So we're getting closer. But in the mice, it was
+just a stunning result, which is a mouse that's
+had its optic nerve damaged or a mouse that has glaucoma, which is pressure in the
+eye that causes blindness, it affects millions of
+people around the world, or just old age, these mice were essentially blind. We then put the virus in
+with these three genes, could turn on those three
+genes, O, S and K for short, and four weeks later, those
+cells, the retinal cells, the nerve cells that go to
+the brain, went back in time, they became young again, reset their age, according to the Horvath clock. Their gene expression patterns, which means the genes
+that were dysregulated, went back to being regulated
+perfectly for a nerve cell, and the mice got their vision back. We actually cured blindness in those mice, which was a stunning result. We also showed that the
+systems that reset the clock, there are enzymes that control
+DNA methylation called TEDS. Without those, we didn't
+get vision restoration, and the clock didn't go back. So what that tells us is the clock going backwards is doable. there is a reset switch in the body, and that the clock is part of that system. - And this all sounds... I know, to people who
+haven't heard about it, at first it sounds sort
+of futuristic and crazy, this was the cover story
+on the journal, Nature. - Yeah, December, 2020, we were fortunate enough
+to get the cover's issue, it's a dream for any scientist. And the title that they had on the cover was "Turning Back Time" and a picture of an eyeball
+with a clock hand going. Yeah, that was one of the
+highlights of my career, and what's happened since
+is there's been a whirlwind of interest in this from
+scientists around the world. Investors, there's more
+than 20 billion with a B, $20 billion being raised to look at this actual
+phenomenon of aging reset, and a lot of scientists
+are turning their attention towards understanding how this works, and even mimicking this gene
+therapy with little molecules, perhaps plant molecules or drugs that are on the market already, so that one day, hopefully
+in the next five to 10 years, we could take a pill or
+rub a cream on our skin, not just to slow aging, but to truly reset the age of the body. - Between then and now, there's obviously a lot of work to do. We've seen this effect
+in the eyes of mice, you're working on other
+systems within a mouse as well. - Well, we are, and in
+humans, I should say, we're trying to go as quickly as we can. We've found that the reset
+works in other parts of the eye, we can restore vision in mice that have what's called
+retinal degeneration or macular degeneration. We also have skin reversal
+for humans and mice, and we've even built little mini brains, we grow these little
+organoids out of human skin, we give them Alzheimer's disease, these little brains get dementia, and we can reset the
+age of those mini brains and they get their
+electrical activity back. So this is the beginnings of work that I hope will mean that we can reverse the age of
+the brain and other tissues, and diseases of old age, like Alzheimer's, heart disease,
+even cancer, will go away. - What this would look like
+in practice, presumably, at some time in the future, would be a course of treatment, right? Like, you have experienced
+some degree of aging, you decide, "Hey, it's time
+for me to take care of this." You go in, you have this gene therapy, and then these genes
+are basically turned on inside your body to do their work. - That's right. And we built the system and the virus, so we could turn it on with
+an antibiotic, doxycyclin. And the patients that we
+treat, if we treat them, will take a course of antibiotics to turn on the reprogramming. So we can turn it on for,
+say, four to eight weeks. We can measure their vision. When they get their vision back again, they stop the antibiotics. Then, they age out again,
+maybe another decade, and then all they get in the mail is another course of antibiotics to restore their vision again. - A lot of people are going to be really
+concerned by this idea of, like, gene therapy, but there are, as you noted, like, some other avenues that we
+might get a very similar result. Greg Fahy's work is
+aimed at this same idea of an epigenetic reprogramming
+without the genetic therapy. He's doing this through some
+pretty simple chemicals. - Yeah, so he's in California
+and he used three treatments. It's called the TRIIM Trial and it included Metformin, growth hormone and DHEA, another hormone. And so, growth hormone
+will rebuild tissues, and that gives a response in
+the body that times are good, but he also counteracted
+that with adversity mimetics, the Metformin and the DHEA
+prevented glucose spikes and type-two diabetes. And what he showed after
+a year of this treatment was that the epigenetic
+clock measured by Horvath, remember, this is the
+DNA methylation patterns, reset in a way that was calculated to take their blood biomarkers back, their blood clock back two
+and a half years on average. Now, that doesn't seem like a lot. - That was after one year of treatment. One year of treatment on this
+course of these three drugs, bought two and a half years
+in equivalent biological age? - Yeah, and at first I said, "Two and a half years,
+come on, that's not much." But then I realized if
+you do that every year or even every two years, you're immortal, and that's when things
+get really interesting. But what we don't know is are these treatments just
+changing the blood clock or are they changing the whole body? So we need to measure other things, including skin clocks
+and blood biomarkers, to really know if this
+is a true aging reset. - So there's a bunch of ways that we're trying to
+approach the same goal, which is this, like,
+repeatable resetting of age. As of right now, we don't know how many
+times it's repeatable, whether you can do it
+once or twice or 10 times or however many times we want? - We don't know, but I
+was speaking with Greg, who's a friend of mine, he said that he's been
+repeating this treatment. And, you know, often when
+these publications come out, we scientists know a lot more
+than we're telling people. And what he told me, which I'll share with
+all the audience today is it works multiple times. So he's now getting
+people to go back five, and there are some reports
+of people going back 10 years in their blood's biological age. - What do we need to know, to know whether that's
+safe in the long-term? And what do we need to
+know to know whether or not that can be continued in the long-term? There's not some drop off at some point, where it, like, just is
+not going to work anymore. - Yeah, we don't know,
+this is new territory, and I think that's a
+really important point, is we don't know the dangers
+of resetting the age. We believe that it's safe. So far, there's been no
+indication of any downside. But one of the big worries is
+if you go back too far in age, you can stimulate cancer cells. So that's another thing to watch out for. But I'm an optimist. I'm optimistic that if
+the body becomes younger, it'll surveil the body
+and kill the cancer cells, which is one of the
+problems as we get older and why tumors develop, is that our body's immune system doesn't kill those cancer cells. But, you know, obviously we
+have a lot of work to do, we're not saying go out
+and try gene therapy today. We could do that theoretically,
+but definitely don't, we don't know all the risks, and particularly with gene
+therapy, it can be irreversible. So this is something... - Yeah, once you do it-
+- Don't try this at home. - You're committed. - Right, and there can be
+other side effects as well, from gene therapy, including immune responses
+to those viruses. One word about those viruses is that it's still early
+days on gene delivery. One of the reasons we haven't
+immediately had success with extending the lifespan of mice, is that those viruses are very hard to distribute evenly through the body. Even in even humans, it's a struggle for diseases that want to be treated holistically. But there are advances, there're a number of new
+companies that have sprung up that allow these viruses to
+infect the body more evenly. And when that happens, I think we will be able to make mice that can live a decade or two. - So if we could take a mouse that right now has a
+lifespan of about two years, and we can make it live a decade or two, and just playing with this idea of optimism
+for a moment here, and sort of, like, setting aside all of
+the things that, like, we don't know yet, those kinds of impacts on a human life, puts us out well past the 100 year marker, well past the 120 year marker. We start getting into territory that a lot of people just have a really hard
+time even fathoming. But again, just playing
+with that for a moment here, what we're talking about in the long-term, is a world where people are living these incredibly longer lives, presumably hopefully healthier as well. A lot of people, the first thing that they
+hear when they hear that is more people on an already
+really crowded planet. You hear this a lot from people. - Well, I do, even when we talk about
+extending lifespan by five years, people wonder what are we going
+to do with all these people? And the good news is, if
+you do the calculations, first of all, most advanced countries, economically advanced, the rates of population growth
+are starting to decline, even here in the US, it's coming down- - 'Cause people are having fewer children over the last few generations
+as these countries get richer. - Yeah, richer leads to fewer offspring. Wealth, health, these all lead to people making decisions that, "I don't need to have 3, 5, 10 kids." And this is increasingly happening in South America and in Africa as well. And the prediction is that humanity will peak at about 10 billion, maybe 11, and start to come down again, and that's going to be when these changes actually happen to humanity, that people will live longer and there will not be an excess of people, it's not that we'll be overcrowded, that's clear from the math. The other concern people have is what about all the resources? And clearly, we need to figure out ways to preserve the planet,
+preserve the environment, and not destroy it with
+our over consumption. And one of the solutions that
+often people don't think about is that these changes to human biology will allow people to
+be much more productive and less costly to the economy. Right now, we throw away 17% of our GDP in the US on healthcare. Well, we don't throw it away, but a lot of that is used in
+the last few years of life, which we can probably
+fix with this technology. We've calculated that if
+we could extend lifespan by just one year, using
+Metformin as an example, which probably could
+work better than that, the value to the US economy in
+the long run is $86 trillion. And if you do it for 10
+years, it's 365 trillion, we just published this in
+the journal, Nature Aging. That is money that can be
+put towards other problems, improving education, helping to combat climate
+change, among other things, making the world much more
+efficient and less wasteful. - We've get to use that
+money wisely, though. I mean, like, there was this sense at the end of the cold war that we were going to
+have this peace dividend, and all this money that
+we were spending on war, we were now going to be able to spend on all these social programs and making people's lives better, and we just threw it
+back into the military. There's also a possibility
+that we misuse this. So this is another instance where we really need to start
+having these conversations now and really working them
+into the conversations and making sure that policy
+makers understand the world that we're potentially entering into. - For sure. But the sums are astronomical. Already, we've got more money being put into reprogramming
+and age correction, epigenetic reprogramming, than ever in any other
+time in medical history. This is a true historical event that we're experiencing here. It's one of the reasons we
+wanted to do this podcast is to bring people along as
+these amazing changes happen. But also, the sums of
+money that we'll be saving are also unprecedented. $360 trillion just in the US, that's money that, yeah,
+even if some is wasted, there's going to be a lot
+to use for good purposes. But I think what we want to
+do is educate Congress people, that when this money comes, it's used for the right purposes. - And that's on the healthcare
+saving side of things, which tends to be the later
+in life side of things. There's another advantage to this too, is that if we can
+lengthen lifespans, right? The portion of a human life that we spend educating someone right now is about a quarter of their life, right? It's the first 20 years of
+their life, give or take. And then you get, you know, two decades, or two equivalent time periods
+where they work, right? So you get about a 40 year career, and then you get a 20 year period at the end of their
+life where they're sick. But if you can extend out that time in which they are being productive, all of a sudden all of
+those educational costs become even better investments. And they already are, and as you and I both agree I know, education is the best investment
+we can make in our society. - Right, and not everybody starts out life with a career that they want. They don't have the opportunity, and so with a longer life, there should be multiple
+opportunities to change careers and do things that people
+have always wanted to do. But to make that possible,
+we advocate a skill-batical, a term that we coined. This would be two or
+three years paid time off to change careers, to do something you always wanted. Everyone should have that opportunity. - Throughout the course of people's lives. - Yeah, as lives get longer and
+more productive and healthy, there should be multiple
+opportunities to change and do, ultimately, what people
+have always wanted to do. My father is a good example, he's now 82. He left his main career
+in his late 60s, 67, and he thought he was going
+to die in 10 years from then and it wasn't going to be very pretty. He's now 82, he's as
+healthy as he ever was. He's stronger than me. He started a new career in his 70s. This is the kind of life
+that I want for everybody, that we don't have to
+worry about getting cancer in our 50s and 60s or having
+a heart attack in our 70s. We should be able to live in our 80s, 90s and beyond in a healthy way, contributing to society,
+educating the community, educating our kids, our grandkids, even our great grandkids
+with all the wisdom that we accumulate over our lifetimes. It's a huge waste when
+somebody 80, 90 or 100 dies. - Well, it's such a waste that, we've argued about this before, you've suggested that people don't just have a right to live that long, they really have a responsibility and an obligation to live that long- - Well, they do-
+- And healthy. - Well, it's important. Most people who are
+over the age of 40 or 50 have taken care of a
+grandparent or a parent, who's gotten sick. It's a huge burden on everybody, and it's not just bad for
+the person who's dying, it's bad for the family,
+it's costly, time consuming, and emotionally draining to say the least. What we're talking about is take responsibility for yourself, but also do it for your kids
+and your grandkids sake, because if you live a long time and are not a burden on your family and you live a long time, you'll probably die much
+quicker, that's the statistic, your kids'll thank you for it. And I think we have a right
+and an obligation to do that. - Most people, I think, when you present to them the opportunity to live longer and healthier, they say, "Oh yeah, I
+would like that future." Right now, the things
+that we have talked about that make that kind of a future easier, reprogramming, really, really effective, drugs and supplements, they're getting there,
+but they're not there. Which means if somebody wants
+to partake in this future and they're of any age right now, they actually have to put in the work. It's not just going to be handed to them in the next few years. - No, it's not just
+simple as take two pills and call me in the morning kind of stuff or call me in the next
+decade, it is hard work. You don't get anything for free. You can't just yet pop a pill
+and go back 20, 30 years, though maybe in the future we will. But for now, the best
+recipe for long life, greater health and ensure
+that you make it past 80, 90, maybe even into your 100s,
+is to do the right things. There's eat the right way, okay? Eat the right of kind of diets. Don't eat as often, have
+some period of fasting. Get some type of exercise. Even better, do multiple
+different types of exercise. Stress your body out a little
+bit, give it some hormesis, these are adversity mimetics, so a bit of cold, a bit of
+heat, those kind of things. The other thing we talked
+about is some supplements and these new technologies
+we've talked about today, the monitoring and other things, that will actually
+allow us to live longer. And you might say, "Well, do
+I care about living longer?" Well, absolutely, you should. Why? Because the longer you live, the longer you will live. Right now, if we live an extra year, we get another three months of life, 'cause these technologies
+are going so fast. And soon, we'll have
+another six months of life every year we live, and eventually another year
+for every year we live. And that's when things
+get super interesting. - David, in this series so
+far, we've covered a lot. I know a lot of it was dense. Some of it, we probably
+moved too fast for people on. Some of it, we didn't move fast enough on. Some of it, people might
+want to review again. If they do want that, the good news is the show notes
+are going to be available. They're going to be timestamped, so you can go right to the topics that you want to learn more about. Those are thanks to our really
+amazing team of researchers. - Yeah, we've been really lucky, we've got a great team
+here that we want to thank, you and I. One is the researchers. So a lot of the facts here that have come out of the
+scientific literature, were brought to our us by
+Sarah Ryan and Adiv Johnson. They've been awesome. Thanks, guys. We also want to thank our producer. We've got Rob Mohr and his assistant producer, Jack Jameson. - Yeah. If there's anything that people want us to dive
+deeper on in the future, presuming a future of
+another season of this, they can leave notes wherever they're watching their podcast. - Yeah, hopefully we'll
+have a great reception. People can leave five
+stars on Apple Podcasts and tell us if they like it- - You know, just as a
+suggestion, five stars. - Yeah, that would be fine. But seriously, we're paying attention, whether we should do
+another series or not, and we'll decide based on the reaction. Hopefully, people love what we do. They want a deeper dive. They want to know more about fertility, even sexual performance,
+we could jump into. - You really want to do that episode. We can do it, like, I'm excited about that episode too. I think there is a ton to
+be said about aging and sex. There's a ton to be said
+about aging and society. There's so many more
+topics that we can hit. - And there are a lot that we
+haven't thought of, I'm sure, and our viewers can tell us
+what they want to hear about. So we'll pay attention to the suggestions. And if there are enough
+people interested in a topic, we'll dive into the scientific literature that's inaccessible to most people, and bring those in a factual way, and hopefully in a way that is digestible and easy to understand,
+but also entertaining. Most importantly, what we want to do here, and hopefully we've done this in the last eight episodes here, is to give people an
+idea of what's possible. That their long-term longevity and their daily wellness and performance is truly in their own hands, even with today's
+knowledge and technology. And just around the corner, we're going to have things
+that we can barely dream of. - And wherever we go next, now people who've listened to this, hopefully have a really
+baseline understanding of the fundamental nature
+of where the research is, where it's coming from, where aging comes from and
+what we can do about it, which means that whatever
+we cover in the future, we can start from that
+place and build from there. - Exactly. We can do some deep dives
+into various topics. It can be about blood
+glucose and monitoring. It could be about fertility in women. We've got lots to cover, if we do another set of eight episodes, which we hope we'll do. And depending on the feedback from people, if it's really positive, and we hope that it will be, we'll do another eight, I think. You want to come back and do one? - Yeah, I do.
+- Another series? - Although, I think there's some debate about where the location is going to be. We're filming in Boston right now. - And you want to go to
+your place, probably? - I think a combinatory
+podcast series recording, slash ski vacation sounds really good. - Yeah, Mr. Park City, Utah. Okay, sounds good to me. We'll have to ask our boy
+wonder, Rob, the producer, but I would love to do that. Thanks so much for joining us in this first season of
+the Lifespan podcast. Again, please let us know your thoughts and questions in the
+comment section on YouTube and on social media, and let us know if we
+should do a season two. If you'd like to support us, please share this episode and others with those you think might
+benefit from the information. To stay informed of future episodes, subscribe on YouTube,
+Apple Podcasts and Spotify. And on Apple, you have the opportunity to leave up to a five star review. Also, please check out the sponsors that we mentioned at the
+start of the episode, that's probably the best
+way to support the show. We also have a Patreon account. It's at patreon.com/davidsinclair. There, you can support
+us at any level you like. Thanks again for joining us. It's been a lot of fun and
+our hope through this series, we've shown that aging is not just something to
+focus on late in life, but something you should focus on daily, to feel better each day and
+be healthier for longer. Maybe we'll see you next time. 

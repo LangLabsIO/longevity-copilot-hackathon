@@ -1,0 +1,702 @@
+- Welcome to the Lifespan podcast, where we discuss the science of aging and how to be healthier
+at any stage of life. I'm David Sinclair. I'm a professor of genetics
+at Harvard Medical School and co-director of the
+Paul F. Glenn Center for Biology of Aging Research. I'm joined by my lovely co-author and cohost Matthew LaPlante. Welcome, Matt. - I love that you called me lovely. - I think you are lovely. - Oh, you're nice. You're nice. - You can be nice sometimes. Hey, today in our episode, we're going to be talking
+about exercise and other... what you call adversity mimetics. But before we get to that today, right after we stopped taping
+in the last episode you went, "Oh my God, iron!" and then we had this really
+great conversation about iron. And so I wanted to bring us back there before we could move forward today. Is that all right? - That'd be great. So the last episode, if anybody missed it, was about the foods that
+we can eat or not eat- - Or not eat, right.
+- To live a long time. And it was remiss of me not to bring up a pernicious element called iron. - [chuckles] Pernicious. - Yeah. It's one of the elements that is turning out to be
+quite a dangerous element to having too much of in your body. Increasingly we see that people
+who have high levels of iron have accelerated aging. - Okay, yeah. But iron is essential, right? We all need iron. In fact, people supplement
+with iron a lot of times. - Right. Well, we need iron. It's a major component of hemoglobin, which carries oxygen which we need. But the levels don't need to
+be as high as we once thought. In fact, people who live a long time and have these diets that are recommended, I typically say they
+have lower levels of iron and lower levels of hemoglobin. And this is not necessarily a bad thing. Conversely, people who
+have very high levels, either genetically, hemochromatosis, or take a supplement and end
+up with high levels of iron, might be predisposing
+themselves to accelerated aging. - Okay, so what about just... I mean, this plays into your idea about why people should limit
+their meat intake though; because meat intake, meat is high in iron, especially red meats, especially are higher in iron. - That's one aspect. But typically if people
+are taking multivitamin with high levels of iron, this could be a really bad thing. It'll accumulate in tissues. And we know now that
+particularly ferrous iron leads to the production of free radicals that damage tissues in
+the body and, even worse, it leads to the accumulation
+of these zombie cells which we call senescent cells, and those drive the aging process, in part, large part, because they leach these
+inflammatory molecules that cause other cells in the vicinity to become inflamed, to age, to senesce and even cause cancer. - Let's back up for a second here, because I think we're going to talk more about senescent cells in a coming episode. But we have mentioned
+free radicals before, and I think that's a word
+that gets thrown around a lot. And maybe not everybody
+understands free radicals. - Right. And we're not just talking about
+people in Portland, Oregon. - Or Eugene, or Berkeley.
+- Yeah. So these are free radicals that... These have been around for
+millions of years, of course, and we've known about them
+for at least the last 70. There are three main
+types of free radicals. There's the superoxide molecule, which is quite damaging and can lead to what are called advanced glycation end products which are basically
+proteins that are damaged. It's one of the reasons you want to fast sometimes during the day to get rid of these damaged proteins. There's a superoxide anion, it's called, which creates most of the
+oxidative stress in the body. And then there's a third
+one, hydrogen peroxide, which you can buy a bottle
+of and dye your hair blonde or orange as my hair
+went during the pandemic. Those three things are
+really bad for cells. - You dyed your hair during the pandemic? - I got bored. I just dyed it. - How did it look? - Horrible. It really went orange. I've been dyeing it ever
+since just to cover it up. But it's almost gone, thank goodness. But this is where iron comes in: When you have a superoxide molecule, it'll be turned into peroxide by an enzyme called superoxide dismutase, which is extremely important
+to get rid of that superoxide which is going to damage the cell. But then you get hydrogen peroxide and we know how bad that is. Look at my hair. You don't want that circulating. So then what happens is there's a molecule called glutathione which will turn that into water. But if you have too much iron around, there won't be enough
+chance to detoxify it and it'll be turned into
+this hydroxyl radical. And that's a really damaging molecule that goes on to damage your DNA, your RNA, lipids, proteins, and
+drive aging and senescence. So you want to have iron; enough not to be lethargic, to have enough oxygen transported, but not super high levels that'll cause accelerated aging. - And this is going to be
+different for different people. 10% of the population in the United States has the a HFE gene, which makes them more
+susceptible to hemochromatosis, which means they have to
+be even more concerned. You can't know this without knowing if you carry this gene though, right? I mean-
+- Right. You do need to measure things. And that's why I, myself, and I recommend people measure
+their blood bio chemistry and determine whether their iron, whether it's free iron,
+which is the worst type, or even the bound iron are out of whack. And you can correct for that. In the case of a normal person, I would say don't take her an
+iron supplement necessarily, although women may need it
+certain times of the month. But people who have hemochromatosis, they're particularly susceptible to aging. And the recommendation, typically, of a doctor is donate blood if you can. - Okay. So just to go over what
+we talked about last time really quickly. You advocate for a plant-based diet. You advocate for low iron levels. What am I missing? - Well, we're going to
+talk about that today. What type of exercise works best. - Oh, I was just talking
+about how we should eat, but yeah. [Matt and David laugh] - Well, eat less often. - Eat less often?
+- Yeah. So I've gone from not eating breakfast now to not eating lunch as well, and just focus on dinner; and giving my body a
+rest from food overnight and through the middle of the day so that it turns on our
+defensive genes against aging, those three buckets: the mTOR, which senses
+amino acids or lack thereof; the AMPK, which senses energy,
+which is glucose mainly; and the sirtuins, which I work on, that sense all of those
+things, including exercise. And those three protective mechanisms, we can turn on by eating the right things, eating less often and exercising. - And this leads in really well, actually, to what we're talking about today, because what we're talking about is bringing your body into a
+state of perceived adversity as a way to turn on these genes. Before we can do that, we've got some business to take care of. - We do. Because this podcast comes
+to everybody for free, we should definitely mention the sponsors that make that possible. Our first sponsor is Athletic Greens. Athletic Greens is a greens powder developed from a complex
+blend of 75 vitamins, minerals and whole foods
+sourced ingredients. It's filled with adaptogens for recovery, probiotics and digestive
+enzymes for gut health. They also have vitamin C and zinc citrate for immune support. I've been drinking Athletic Greens for a number of years now. I do that not just because it tastes good, but because I travel and I
+often don't eat perfectly. And by having it every morning, I rest assured that I'm
+getting all of the vitamins and minerals that I
+need for optimal health. If you'd like to try Athletic Greens, you can go to athleticgreens.com/sinclair to claim a special offer. They're giving five free travel packs plus a year supply of vitamin
+D3 for immune support; and K2, which will keep the
+calcium out of your arteries and put it into your bones. Again, go to athleticgreens.com/sinclair to claim this special offer. Today's podcast is also
+brought to us by Levels. Levels is an app that syncs with a continuous glucose
+monitor, or a CGM, which they provide, and that interprets your
+glucose data for you. I've been so impressed with Levels that I've recently joined
+them as an advisor. Monitoring your blood glucose levels allows you to run experiments to see how different foods impact you. I did this myself a number of years ago, and I continue to do it. I've learned a lot
+about what kind of foods I should avoid and which
+ones are okay to eat. If you'd like to try Levels, you can skip the 150,000
+person list and join today by going to levels.link/sinclair, that's levels.link/sinclair. Today's podcast is also
+brought to us by InsideTracker. InsideTracker is a
+personalized nutrition platform that analyzes data from
+your blood and your DNA to help you better understand your body and reach your health goals. I've using InsideTracker
+for over a decade. Over that time, I've been able to optimize my health and even potentially get
+younger than my actual age. They make it really easy. You can have somebody come
+to your house, like I have, or you can go to a local lab. The data is easily uploaded by them, and you can see a dashboard on your body that also gives you
+personalized recommendations for exercise and nutrition. If you'd like to try InsideTracker, you can visit insidetracker.com/sinclair and you'll get 25% of
+any InsideTracker plan. Use the code Sinclair, my
+last name, at the checkout. - All right, so let's get into this. In this episode, we're talking about some of the things that people can do to create
+and mimic in their lives the biological adversity that's more conducive to better lifespans and
+health spans that we call- - We call these adversity mimetics. - We call these that. I mean, when you say we call these that, is it like you and I call them that? 'Cause I know we call them
+that, but is it like... Is that a term that scientists use, that people actually use right now? - No, we just made it up. - You're just making it up. But it's a good word, right? - We'll use it, trademark. - And the reason why
+adversity is important ties back to this idea
+that you've proposed of a survival circuit. So before we move forward into this, let's talk about the survival circuit. We don't have to go way,
+way back in history. - Not 4 Billion years, we'll come forward in time a little bit? - Yeah, you can go back 4 billion years, and that's in the book. But we're going to start in the 1990s with Cynthia Kenyon and
+her work on sea aliens. - That's a good starting point. So in the 1980s, it was all about just free radicals. We didn't know that aging
+could actually be controlled by any genes, it was certainly not single genes. And Cynthia came along as
+a young graduate student and looked for worms
+that would live longer. And she mutated them and
+found a strain of worm, a mutant worm, that was living twice as long; so instead of living for 15 days, 30 days. And that was a remarkable finding because when she dissected
+the worms, bred them out, found that it was due to
+a single gene mutation. And when she cloned the gene
+and found out where it was, it was in a gene that sensed insulin, it's the insulin receptor
+gene called DAF-2. That was remarkable because it had nothing
+to do with free radicals, it had nothing to do with DNA damage, it was a signaling molecule. And that was the start of a revolution in understanding how to control aging by using genes and supplements and drugs that turn on the body's defenses. - And this was the first
+so-called longevity gene? - Yeah, I would say that was the first. It came very close to the work
+that we were doing at MIT. We were maybe a year
+later than her, but we- - You seem a little annoyed by that. - Nope, it's not much me. I'm careful because my
+supervisor Lenny Guarente used to get really annoyed when he was told that
+he was slightly behind. He thought his work was
+being done at the same time. So those two used to be the... I guess maybe still are at
+the forefront of this field; they're certainly the
+grandparents, if nothing else. And they both showed... So Cynthia in worms and
+then Lenny in yeast, where I was at MIT, made the finding that a
+single gene alteration can have a huge impact on
+an organism's lifespan. - And these genes, there's a few of them now
+that we've identified. And all of them seem to work
+on a very similar circuit that all starts with adversity. - That's right. These signaling proteins, like the DAF-2 one that Cynthia discovered and the sirtuins that we work on, we didn't know what they
+were doing at first. It was like, "This is crazy. It's got nothing to do with
+DNA repair and free radicals." But then when we tracked what
+they were actually doing, it turns out they're speaking
+to the rest of the cell to keep the cell healthy and alive. So in the case of that worm, those worms weren't just longer lived, the program to survive was activated. Those worms are stress resistant. You can hit them with heat,
+you can hit them with cold, you can starve them or just
+put them in happy conditions, they live longer. The paradigm is that
+normally a worm responds to its what's in the environment; if it's starved, it'll
+hunker down, it'll survive. But here we had a worm that
+was mimicking starvation and was able to have the benefits without having to starve itself. - How do the genes, for
+lack of a better word, know? How do they know that the
+conditions are adverse and they need to turn on? - Well, there are various sensors. And so that the three main
+pathways that control this: we've talked about mTOR, which is sensing the levels
+of amino acids in the cell. Lower levels of certain amino acids, branch chain amino acids, are good for the cell because they downregulate mTOR activity. That's one way. The AMPK senses energy, glucose; and then the sirtuin sense NAD, which is a molecule that goes up with exercise and hunger. Together, those are the sensors. Now, how does a cell
+communicate with other cells? Well, there's insulin. Like we know when we eat a meal, insulin goes from our
+pancreas into our bloodstream and tells the rest of the body, "Hey, you got sugar already,
+suck it in, use it." That's a signaling protein. And what Cynthia's worms ended
+up when they were mutated is that that signal to bring
+in the glucose was mutated and this insulin signal was absent. And when don't have the
+insulin signaling in your worm, it means you're hungry and you get the benefits of being hungry without having to starve. - So our body is this always
+active monitoring system. We're perceiving the world around us and the world around us
+is constantly throwing different stressors at us, or at least it was in
+human history, right? We've always been a little
+cold or a little hungry, or a little scared, or having to run from
+this animal or that animal that wanted to eat us. This is the environment
+that our species evolved in, that all species evolved in, right, is this constant state of adversity. - Right. And that adversity, we've
+evolved to fight back. And so in the past, our bodies were constantly
+fighting disease and deterioration throughout life. Even before birth, we're
+fighting against entropy, things are falling apart. The aging clock that we can now measure begins at conception. But if you fast forward to now, our society is built on comfort. We've got... Most countries have
+enough food and shelter. We can sit down, we don't have to run away
+from predators very often. And this is a real problem
+because these longevity defenses that normally would be activated by being cold and hungry
+and running are lethargic. The body doesn't expend
+energy to defend itself unless there's a need for it. And modern society is the worst thing. - We've taken away those needs. Yeah, we love comfort, it feels good, but that's the worst thing
+for long-term health. We need to trick the body into getting out of its comfort zone by doing these things we've talked about: eating the right foods, including foods that are stressed; eating less often- - Which puts stress on us, which causes our body to feel like it needs to protect itself. Because if we're not filling it with all of the nutrients
+and calories we want, it perceives a need, it proceeds adversity and
+it turns on these genes. - Right. And as long as we have adequate nutrition. That's what we call intermittent fasting with adequate nutrition or IFAN, this is another term we
+just coined in this podcast, that allows the body to
+turn on these defenses without suffering long-term
+negative consequences. What's interesting, I find, is that even though we know the fridge is probably full with food, our bodies are not that smart, our bodies don't get that message. And we can trick it, trick the body into thinking, "Oh my goodness, the fridge is running out of food, or the field or the
+forest is lacking in food, we better get to hunker down and survive." What are those things? You burn fat, you
+increase your metabolism, so you've got more energy
+to run around and find food. You become more alert because you've got to go find more food. And you defend your body against insults, whether it's incoming infections
+or diseases from within. And that's cool that we
+can trick our bodies. And it's not that hard, we just need to do the
+things we're talking about on this podcast. - And when we're talking... We've already talked about the real, key effects that come
+from eating less often to basically turn on this
+adversity mimetic effect. There's another really
+easy way to do this though. - Right, and that's get off your butt. - Just get off your butt. - Yeah, It's not that hard, as we say sitting here doing this podcast. But one way I do it is
+I have a standing desk. so my butt actually atrophied. When we were writing this book "Lifespan," I ended up with a cramp
+in my piriformis muscle, which is the one that- - Wait, in your what? - Yeah, yeah, it's a small muscle. - Where is it?
+- Size doesn't matter. It's right in your hip, it goes through that hole in your pelvis, and it's essential for standing, and it was cramped up-
+- I always wondered what that hole was four.
+- Yeah, it's- - There's a muscle that goes through it? - Yes.
+- [Matthew] Okay. - All right? But it was cramped up
+on my left-hand side. So I was limping for about nine months after we wrote the book, and I thought, "Great, I'm writing about
+health and longevity and now I've crippled myself." I eventually got it to go away with a combination of exercise, physio and an injection of NAD in my butt, which we'll get to in
+probably the next episode. But the point here is that
+sitting down is bad for us. You atrophy, you have less muscle which
+means your hormone levels, particularly testosterone, will go down; and you become in pain,
+that's not a good thing. But ultimately if you
+have not a lot of muscle in your hips, particularly, you can break your
+bones when you fall over when you're older. And all of that means you
+need to get off your butt, stand up; even better, go for a walk; even better, go for a run or cycle to get what we call a hypoxic state going. Your body needs to suck in more oxygen. And that has remarkable health benefits. - And we really have to work hard at this. 'Cause, I mean, you're saying this as we're
+sitting in these chairs, right? A couple of days after I sat
+down in a chair for a long time in an airplane to get here, right? We've got a nice comfy couch over there that we've been working on. Like, we actually have to
+actively pursue opportunities to do this, to get exercise, to promote this adversity mimetic effect because our lives are built around comfort and sedentariness? - Yes, that's true. And what I think most
+people don't appreciate is that exercise isn't just beneficial for your fitness and for your vitality, it actually can stop
+diseases in their tracks. Exercise can slow down cancer. In fact, it can prevent
+up to 23% of all cancers from occurring. That's true for cardiovascular disease. In fact, it has an even
+bigger effect on that, 30% reduction just by doing
+moderate exercise every week. 50 minutes is sufficient, or three times a week with 10 minutes. All-cause mortality, right? So what we are... All-cause mortality is
+basically slowing down aging, that's a 27% reduction
+in the rate of aging just by exercising. - The thing you just said... I love this idea of connecting the idea of all-cause mortality with aging; because as we've presented here, as you've been arguing
+for quite some time, most diseases which bring us
+toward the end of our lives are really just an accumulation
+of the symptoms of aging. And so if you bring down the disease rate across various diseases, which is bringing down
+all-cause mortality, you're really just... It's just another way of saying
+we're bringing down aging. - We must be. Exactly. And we can also now measure
+that with the biological clock, the so-called Horvath clock, named after my good friend Steve Horvath. That is now a measure of the process that leads to all of these
+diseases that kill us. And one way that we know for a fact to slow down the ticking
+of that biological clock is exercise. - Any any kind of exercise is good. This is why the 10,000
+steps a day goal is popular; generally speaking, it's good. It's not a magic number. I think somebody came up with 10,000, and actually some studies
+have shown health benefits that are... exist at 4 to 6,000, kind
+of peter out from there. But the basic idea here is that when we move we burn calories, we're putting our bodies into at least a low state of adversity. - Right. So try to get 4,000. And 10,000 seems to be even better. - It's a great goal. It's a round number. It's fine, right? - Just get off your ass,
+that's what we're saying, that's all it takes. It's not that hard. Walk around the block a few times. And particularly after a meal,
+as we spoke about last time; walking after a meal
+gets your glucose levels to be more level, which is what you want. - Which relates to this... We were talking about this
+old Chinese proverb, like, 99 steps after a meal... No, a thousand steps after
+a meal, you'll live to 99. But walk after you eat.
+- Right - Because? - Well, it'll stimulate
+the uptake of glucose, but also it'll get your muscles moving and stimulate the production
+of new blood vessels, make sure that you don't run
+out of oxygen later in life. But mostly what happens when you move, the first thing that happens is a really important reaction that involves one of
+these longevity pathways, the middle one that I
+refer to, called AMPK. - And we can turn on AMPK just
+with a low level of exercise, just start that adversity? - Yeah, so AMPK registers
+energy in the cell, which is chemical energy called ATP. And when you have low levels of ATP, AMPK gets activated; and it stands for AMP activated kinase. And AMP is what you get a lot of when you don't have
+enough of this fuel, ATP. Long story short: When you have high
+levels of AMPK activity, you will make more mitochondria which gives you long lasting benefits. So after you've exercised, your body will be making more power, more of these organelles, we call them, that will actually give you
+long-term health benefits beyond the period of exercise. - We know that low level
+exercise alone is good, it's a good start. We also know that it's really not enough. You need to also be getting
+a pretty consistent dose of vigorous exercise too. It doesn't have to be a lot. A lot of these studies
+show 10 minutes a day, 15 minutes a day, even even 15 minutes a week
+if you're getting started is going to have health benefits. But vigorous exercise, the easiest way to think about it is you your breathing rate goes up and your heart rate goes up, right? - Right. And there's a reason why vigorous exercise is so important beyond
+just walking and standing, it's that you have hypoxia. Low levels of oxygen are
+undoubtedly good for you, even though they may not feel good. And you know you're hypoxic when you're panting so much you cannot carry out a conversation. That's what you're aiming for for at least 10 minutes
+a few times a week. So why is being out of breath important? Very rarely people ask that. Well, the main reason- - 'Cause it doesn't seem
+to make sense, honestly. Like, you need oxygen.
+- Right. So, again, it's this hormesis idea. A little bit of what doesn't
+kill you makes you stronger. So what's happening is
+when you're hypoxic, is you're turning on a
+what's called HIF-1alpha. hypoxia inducible factor, and that pathway turns on a
+bunch of really helpful genes that control new blood vessel
+growth and mitochondria. My good friend and
+colleague over at Harvard won the Nobel prize in 2019 for discovering HIF-1alpha
+and its role in biology. Now, the other thing that happens in that; there's two things. So one is they HIF-1alpha that
+turns on a generic program, that's good. But what also happens is you
+get free radicals generated. Because when you don't have enough oxygen, those electrons that that
+should normally be used by what's called the
+electron transport chain in mitochondria, which generates ATP, they fly out and they become
+a super oxide radical. - Can we talk about the electrons? 'Cause it's really fascinating
+how this thing works. I mean, it's like it is
+a little circuit around- - Yeah, it's a little
+battery made of proteins. And there's a string of proteins that come together in the membrane and they pass along an electron, like a hot potato. They don't want to hold onto
+it, they shove it along: Get rid of it, get rid of it. And in doing so, they're pumping protons, which are hydrogen atoms, into the inner membrane space. 'Cause there's two membranes
+that surround the mitochondria. And in that little space, the goal is to make it really acidic by putting in these protons into there, and this electron
+transport chain does that. But you need oxygen because at the end, when you get to the end, you got to get rid of this electron and they give it to oxygen, okay? And then that's called respirations. That's why we need to
+breathe so hard when we run and why we need oxygen in the first place. Now, if you don't have enough oxygen, then that'll lead to these
+free radicals being produced and it'll damage the cell. So you might say, "Well,
+that makes no sense. If you're running and
+you're damaging the cell, it's going to be bad, right?" But remember, a little
+bit of damage can be good. So what happens is it stimulates what's called mitohormesis,
+mitochondrial hormesis. And that has a whole
+variety benefits as well, including the manufacture
+of more mitochondria that gives you energy. But I want to mention something that's really interesting, I think, about this electron transport chain. Remember how I said those protons, those hydrogens get pumped
+into that little space to make it acidic? So now you've got what's
+called a gradient. You've got more of them in that space than inside the mitochondria
+in the inner bubble. They want to get out; if they got too much somewhere, they should equilibrate. And what the cell does
+is it puts little holes that protons can escape
+through, a little... It's it's called the ATPase. And what happens is as
+those protons shoot through, it's like a hydroelectric dam turbine. And as they shoot through, it literally spins like a turbine. There's a little wheel at
+the bottom of this tube that spins super fast
+many times per second, and that spinning allows it
+to make ATP or chemical energy which then you use then to
+burn to make the muscle work. And so what's really interesting is that the more mitochondria you have, if you've been exercising for a few weeks, allows you to make more chemical energy, and you don't feel puffed
+as much as you did before. And the other thing that's happened besides having more mitochondria is that you've built more
+blood vessels in your body, and so your oxygen gets
+transported to the tissues. Now, both of those things
+go awry as we get older. And we'll talk later and tomorrow about how you can circumvent that and reverse your age to be
+able to regain that ability. - With drugs, and
+molecules, and supplements? - Besides what we're talking
+about today, exercise itself. - Yeah. We keep going back to this idea of a little bit of
+adversity is good for you. Like, a lot of anything's
+going to kill you, but a little bit of a lot of these things that might in big doses kill
+you is really good for us 'cause it puts our bodies
+into the state of adversity. Let's talk about this in terms of another effect of exercise, increased glucose sensitivity. - Right. So as you get older, our muscles and our brain
+become less sensitive to the insulin. The pancreas is putting out
+increasingly more and more trying to cope with this
+insensitivity that happens. Now, that's largely, we think now because of
+this aging biological clock, that the genes that are required for muscle cell to function
+or brain cell to function are getting switched on
+and off in the wrong way. We call this ex-differentiation. And if you didn't see episode 1, you might want to go back
+and hear more about that. Basically cells are losing
+their identity as they get older and not putting out a
+particular protein called GLUT4, which is a glucose transporter,
+on the outside of the cells. So the muscles are not
+bringing in the glucose. That's two problems, right? First of all, you don't have your energy
+to burn in the mitochondria to make energy. The other problem is that that sugar, that glucose that circulates
+in your bloodstream and doesn't get taken up into
+your muscle and your brain starts to damage the lining
+of the blood vessels, and we know that is type 2 diabetes and cardiovascular disease. - And that's where VEGF comes in? - So VEGF is a little protein that signals the formation
+of new blood vessels. When you exercise- - How do you spell this VEGF, by the way? - V-E-G-F. - Okay, so if people want to look this up. Yeah.
+- Yeah. - Okay. All right. So VEGF? - So VEGF is made by
+muscles after you exercise; if you've gone for your
+run or even your walk, but running is even better. And there's a gene called PGC-1alpha, that is what's called
+a transcription factor. It'll be made, it'll bind to the upstream
+side of the VEGF gene and make more of this VEGF protein. Now, VEGF will be secreted
+out of the muscle and diffuse or just leak out into the
+lining of blood vessels. Now, the lining of the blood
+vessels is made of cells called endothelial cells
+which pick up the signal, they have little
+receptors that sense VEGF. And when they get that signal that says, "Oh wow, we're being chased
+by a saber tooth tiger for the last week, we better build more blood vessels," and they do that. Normally, if you have a
+tube which is a capillary, almost microscopic blood vessels, what happens is the endothelial cells will start to branch out to the side and make a new blood vessel. And that's what you get with exercise. Conversely, if you sit around all day, you won't build new blood vessels, you'll actually have fewer and fewer and your muscle and your brain starts to get starved of oxygen. Now, one of the big problems
+we discovered is during aging, that signaling pathway, that signaling mechanism is defective. And even though you're
+exercising as you get older, you're not getting the benefits of it; you don't get the new blood vessels. - And you can see this in a mouse. I mean, when you pull the mouse apart, not to be too graphic, but you can actually see these thinning vessels.
+- We don't even need to hurt the mouse to see this. We can use imaging to see
+the blood flow in a mouse without hurting it, and we can see the bright red areas where the blood's flowing nicely. And in an old mouse, you don't
+get that even with exercise. But we found a way to restore
+the youth of the muscle and restore the ability of that VEGF to trigger new blood vessel formation. And the trick was to turn
+on the production of NAD, which is the fuel for the
+sirtuin survival circuit. - Which can be turned on by exercise because exercise upregulates NAMPT. - Yeah, also known as NAMPT. - NAMPT.
+- Some people call it that. But, yeah, this is the relative of
+that ancient yeast gene that we talked about in a first episode that extends lifespan of yeast cells. - So let's add one more piece to this, and that is how exercise
+impacts the epigenome. - Yeah, the epigenome... If you missed episode 1, I encourage you to go listen
+to that and watch that because we covered what the epigenome is and how it affects the aging process. But the summary is that the epigenome is the regulator of the DNA. It tells the genes whether
+it'd be on and off. And that goes wrong during aging, and may actually be the reason we age. And one of the reasons we believe that is that you can measure
+biological age now in people. I could take one of your cells, Matt, back to my lab. Well, actually I have to
+take a chunk of your cells or cheek swab, and we can measure the rate of your aging. It's called the Horvath clock
+or DNA methylation clock. And when you look at people that have lived a healthy lifestyle, say they've been exercising
+for the last 30 years. they are much younger epigenetically, according to this clock, than somebody who hasn't. So that tells us that
+very likely that exercise is not just protecting you
+against cardiovascular disease, it's slowing down your
+overall rate of aging. - There are other clocks as well. One of our-
+- There are many actually. - So one of our researchers, Dave Johnson, was involved in a study that
+used the proteomic clock, which works similarly. Let's talk about that really quick. 'Cause it's another way to
+measure biological aging. - Right. So you can measure a
+proteins in the blood, which change predictably over time. There's a protein called
+GDF15, which is circulating... It's now a really great
+biomarker for aging. In fact, GDF15 is one of those genes that was used in that study
+we referred to last episode, where the Mediterranean diet
+slowed the aging process. They found that GDF15, the methylation on that clock
+marker was also slowed down. The point here being that
+these proteomic clocks and the epigenetic clocks, and some others like an immuno clock, can be used now to understand
+what slows down aging but, importantly, how do you reverse it
+with various treatments? And we've gone from a
+field where we had no idea what was going on in aging; really, we had to look at
+tens of thousands of people on metformin to see if it helped health to a point where we can
+take a hundred people, treat them with something; two months later, see if
+they've gotten younger or not. And those experiments
+are being done right now. - And one of the things
+we could treat them with is exercise. Exercise, in the study we
+were just talking about, they looked at aerobically active people versus sedentary people, and the aerobically active people were five and a half
+years younger on average, according to this
+proteomic biological clock. Presumably we'd see the same thing if we used a Horvath
+clock or an immuno clock. - Yeah. And that's true, actually. It's been done on exercised people and they are also epigenetically young. And what's important about
+this clock, to realize, is that it doesn't just tell
+you your biological age. You can actually predict
+when you're going to die or when someone's going to die. And when I say that some people probably got uncomfortable.
+- It's a little morbid. - "I don't want to know this." Well, consider this, that 80% of your future
+health is in your own hands, it's modifiable; 20% is genetic, which you
+can't do much about yet. That's powerful. If you have the tools to
+change your rate of aging... First of all, you have to measure it
+to know if it's working. So I recommend that, and we'll talk about ways
+to do that practically. But once you have that
+number, then work with me. We can tell you here in podcast how to actually slow and
+reverse that process. - Well, we use car
+analogies a lot, you and I. I think a lot of people do these. But it bears mentioning, like, you know that your car's
+not going to last forever. There's a shelf life for any car. You get to choose based on how
+you treat the car over time whether or not the car is going to last 100,000
+miles or 200,000 miles or 3 or 400,000 miles. - Right, take it to the body shop repair and the mechanics more often. That's what we're talking
+about for our bodies. Don't just let things fall apart. - And that's why knowing is important. - Well, you need to measure it? You need to know when
+the car needs a service. You need to know, if
+you're tweaking that knob, whether you're doing harm or good. - And to that end, one of the really cool
+and exciting developments that's happening right now is there's this sort of
+race for these clocks to become available
+widely for people to use, so much so that the price point is predicted to be, what, like buck? - Well, it's coming down the whole time. - For a Horvath test?
+- Right. So right now if you want to
+check your biological age, you can go to InsideTracker,
+one of our kind sponsors, that's a blood test; or you can also have a DNA test, which is available by
+for a few hundred dollars from various vendors. A student in my lab, Patrick Griffin, we've posted recently a paper, which can be accessed on bioarchive.org, that describes a way
+to pool, put together, thousands of people's samples
+and run them all together, bringing the cost of that test
+down to less than a dollar, which means that very
+shortly in the future when we bring out this product, and we are bringing it out soon, you should be able to
+do this test routinely and see whether you try
+new diet or a supplement or just meditation, whether you're actually
+benefiting from that. - A lot of people hear
+all of this and they go, "Okay, I get it, I have to exercise, but," and I hear this a lot, "but I hate to run." Like, everybody thinks
+that that's the only thing they're allowed to do. And I think physicians may
+contribute to this a little bit by saying, like, "Okay, well, I need to get
+you running and jogging," and whatever. It's not just running, right? Like, what's the best kind of exercise? - Well, there isn't one- - It's the exercise you're going to do. - It's what you love doing. And it can be a sport. It could be wind surfing,
+it could be sailing; but just move, that's the main thing. There's even sex, which is... We actually looked this up. It's not as good as we thought. - We did look this up. We were really hopeful
+when we looked this up, but it burns like four
+calories a minute or something. It's not as good as- - Well, I'm sure it depends
+on the individual, right? - I mean, you can make sex more aerobic. You can make it part of
+your exercise regimen, but you have to have a partner; a consenting, willing partner; who also wants to make it part
+of their exercise regimen. - It's only 4.2 calories
+per minute, which... And we also looked up the
+average length of sex, and it's about five minutes. So that's not a lot. - So you wold have burned 20 calories if you're an average person. I'll burn 10. - So Instead of that, you probably need to go for
+a longer walk afterwards to really burn off those calories and get your blood flowing. - And however you get your exercise, be it running or sailing,
+apparently, or sex, both the World Health Organization and the Mayo clinic
+recommend at least 75 minutes of vigorous exercise a week, so that's 15 minutes a day, 10 minutes- - And it's better if you
+spread it out over the week. - Right, yeah, don't do it all at once. But that's the starting point. And most people can do that. You can be the busiest
+person in the world, you can be the most unhealthy
+person in the world, you can get your heart
+rate and your breathing up for 10 minutes a day. - Sure, you can. And the benefits will be huge. You'll feel better, you'll look better, and you will also have a
+better resting heart rate. That's one of the best
+measures of your fitness. If you're less than 50
+for a resting heart rate, that's really good. For someone my age, in my 50s, mine's usually around mid-40s. That's a good indication
+of how well you're doing. And if you've got a high heart rate, it's you're either too
+stressed or you're unfit, try to bring that down again. You can measure your
+heart rate pretty easily, just put your hand on your arm. But you could also either wear
+a ring or a new fitness... these fitness apps- - There's all kind of wearables now that are going to help you do this. - Yeah, and I'm a big proponent
+of measuring things, right? 'Cause otherwise you're flying blind. So I wear a ring, I wear a wrist watch. I sometimes wear- - You're wearing right now. - I am. This also measures sleep, which we'll get to in another episode. There are some advanced bio monitors we're also going to cover. There's one that I stick
+on my chest for two weeks that measures my body a
+thousand times a second for various parameters,
+including my heart function. And in the future, these will be used by people
+to predict heart attacks as well as the flu, and all sorts of issues like depression. In the future, we're not
+going to be flying blind, we're going to be monitored
+a thousand times a second, as opposed to now where you
+go to the doctor once a year and they spend 15 minutes
+asking you, "How do you feel?" which is a joke. - Right, right. Because in addition to the fact that it's a single
+assessment at a single time, it's highly subjective, it's self-reported. This is just crap data.
+- Yeah. This has a bit of an side, but it's worth noting here that I've been measuring
+myself for over 10 years using InsideTracker. And that data is wonderful. It's graphed and you can
+see when things go wrong, I've corrected it. They do an inner age study. There's a measure called Inner Age 2.0 which tells you how you're doing compared to others your age, and you try to keep that low. And based on that calculation, I've been getting younger
+for the last 10 years, which is great to talk about but it also means that I'm
+optimizing my body every time when I do something; and if something doesn't
+work, then I won't do. - And we are going to get into this, but I do want to... I've got a friend, Nate Price, who helps people do this at the Institute for Systems Biology, and they help people create these charts so that they could then bring
+in to show their doctors. And he was telling me about this woman who brought her chart into the doctor. And the doctor was at first
+dismissive and she said, "Well, won't you at least look at it?" And the doctor looked at it and went, "Oh wow, this is really helpful." - That's exactly the
+response of my doctor too. My doctor said, "Well, how do you feel?" and I said, "I'm good, I'm sleeping well." And he said, "Okay, see you next time." I said, "No, hang on. Let's do some more. I've got some data, can I show you?" And I showed him the
+InsideTracker data on Zoom and he said, "This is wonderful. I wish all my patients had this data." Of course, he cannot order
+43 biomarkers every time. The health insurance won't pay for it. But individuals, if they want to spend their money; instead of coffee, they can
+put it into a blood test. Doctors actually do respect those data because they're actually
+produced by the same companies that the doctors would use anyway. - And to bring this all back... To tie this all back to exercise and these other adversity mimetics, which we're going to get
+to, having this data... I'm a big soccer fan. The first time I saw a soccer
+player take off his shirt, he was wearing a bra and I thought, "What the heck is going on?" but it's actually holding these trackers that are measuring things
+in the middle of games, in the middle of practices. The world's best athletes
+are doing this right now and it's becoming more and more available for other people to track as well. And once you have this data, you can start to act on this data. You can start to arrange
+your exercise routine so that you're getting the most out of it. - Exactly. And they can be fun too. You can use GPS to see where you're going. You can compare it with your
+colleagues, your friends: "I'm running more than you." - Let's move along here because we've got a
+lot more to talk about. But before we get away from exercise and start talking about these
+other adversity mimetics, there's another form of
+exercise that I know you enjoy, that I enjoy, that a lot of people enjoy, but maybe doesn't get as much attention as aerobic exercises, is weight training. - I'm glad you said that. All right, so weight training. Yeah, I do that fairly often; I would say at least every
+other day, if not every day. The way I do that is I
+have a gym in my bedroom and I also have weights next to my desk. - You also have them in the
+trunk of your car right now I saw.
+- I do. It's 'cause I travel a lot, and so I'm taking weights with me. But the reason that I do weightlifting is that it's going to
+maintain my hormone levels, it's going to maintain
+my ability to walk well and stay upright and have good posture. It makes me look better, although you may say that's debatable. But also, as I get older- - It's not debatable. You're really good looking guy, David. - Thanks. You're lovely, Matthew. - [Matthew] Thank you. - The other thing that
+is often not appreciated is it's harder to build
+muscle as you get older, and you want to maintain that muscle mass. I'm losing about 1% of
+my muscle mass every year unless I maintain it or build it up. As you get older, you're
+going to fall over, right? Everyone falls over,
+especially as they get older. And if you break your hip,
+that's close to a death sentence. A lot of people... Well, 19 people every minute fall over and break their hip in the United States, which is a major cause of mortality in- - Yeah, the mortality
+rates after a hip break just like skyrocket. - Well, it's equivalent to
+having metastatic cancer. That's how bad it is. But if you've got muscles
+and you're flexible, you do, say, Pilates in
+your older age and stretch, build up the muscles
+particularly around your waist, then you're much less likely
+to break a bone when you fall. - Building muscle mass also helps maintain
+youthful hormone level? - Right. So I had trouble maintaining
+testosterone levels like most men my age. Now, there are two ways
+to go about it generally. The main one is that your doctor
+will give you an injection of testosterone to apply at home or a cream that you can
+rub on your forearm. Those are the two ways you can do it. There are others. But the other way, which I prefer, is to naturally boost it by
+maintaining large muscles, exercising my thighs, my butt, my back. And I've compared the two. I have tried cream on
+my arm for testosterone, it worked okay, my levels
+went up maybe by 20%. It wasn't great. I really maxed out my testosterone levels by doing leg exercise and back exercises. I'm talking about things like
+leg extensions, leg curls, as well as hip hinge, which has bending at the
+hip and lifting weights. And I also do deadlifts, which is standing up, lifting a really heavy weight with a straight back. - There's another way that we know that exercise is impacting aging. And we talked about senescent cells in terms of what iron may be doing to cause cells to go senescent. But let's talk about that
+as one of the key aging... what is called the aging hallmarks. Exercise prevents senescence,
+it turns back senescence? What's exercise doing in
+terms of these zombie cells? - Well, let's start with
+what a senescent cell is. So when the epigenome
+becomes too dysregulated and this ex-differentiation
+process happens, cells can either die,
+they can become a cancer/ But what the body tries
+to do is to prevent that by shutting these cells down and make them more like zombies; they're alive but they're not dividing, and they're causing havoc. - They're excreting all these chemicals into the bloodstream.
+- They are. It's called the SASP, the senescence associated
+secretory phenotype. And these proteins cause inflammation, they also cause cancer. So the fewer senescent
+cells you have in your body, the better. And we're starting to find that lifestyle and supplementation and some drugs can slow their formation; remember, keep the iron levels low; but also we can kill them off. And there's this study, the
+one you're referring to, which took 34 individuals for
+a 12 week exercise program and looked at the amount
+of senescent cells circulating in the blood immune system, and it was dramatically lower
+in the exercised people, arguing that you can actually kill off or reverse that process. - [Matthew] 12 weeks. - Just 12 weeks. - 'Cause these 12 weeks to
+destroy some senescent cells seems like a pretty good deal. - Yeah, it's one of the best ways to kill off senescent cells. - That's the study that
+was just out this year in "Aging Cell," Englund et al. We will link to that in the show notes. Let's put a wrap on exercise. But let's have a few takeaways here. And there's really,
+there's three big ones. The first is a low level of exercise, and this is just steps, right? - Get off your butt. - [Matthew] Get off your butt and take- Yeah. - Standing desk or a
+desk with a treadmill. Walk around the block
+after dinner or lunch. Those are the simple things. - And you don't have to hit 10,000 steps, but shoot for- - Four.
+- Four. Four's great.
+- [David] Yeah. - Okay. All right. And then that's the low intensity exercise that everybody should be
+getting throughout the week, every single day. You should also get
+high intensity exercise. - For sure. A few times a week, 10 or 15
+minutes, lose your breath. It can be in the form of HIIT, high intensity interval training, or running on a treadmill. That will get your blood vessels flowing and your mitochondria amplifying. - 10 to 15 minutes a day. Yeah, that's enough.
+- 75 minutes a week. - Yeah, that's what all
+the experts recommend. - Okay. All right. And then muscle building. - Yeah, weights, that's just as important. So maintain that muscle
+mass for your hormones, testosterone particularly
+for men and women. Exercise the big muscles particularly, don't forget about those. Don't just work on your
+upper arm so you look good. But it's pretty simple. You don't need a gym in
+your bedroom like I do, you can do pushups, sit ups, or just have some weights lying around, that's sufficient. - Okay. And all of this, the goal is... It's not just we want to
+look good, we want to... All of this is aimed toward
+the goal of longevity through putting your
+longevity genes into... Or alerting your genes, your cells, to a state of adversity.
+- Yeah. The adversity mimetics. - The adversity mimetics. I really do like this word. I think this is going to catch on. - Yeah, we should trademark that one, Rob. - Okay. [laughs] So let's... Exercise is not the
+only adversity mimetic, there are others. We're going to talk now
+about a few other categories. We're going to alk
+about cold temperatures. We're going to talk about heat. But there's a really
+exciting one right now, and it is related, in some ways, to exercise or the effects... the genetic effects, the cellular effects that
+we get from exercise, and it's really fast moving. The latest studies were only out in the last couple of years, and this is hyperbaric oxygen treatment. - Right. Or HBO2. Yeah, this is really fascinating because for a while we
+knew that wounds repair or heal faster when you
+give them more oxygen. - Because why? - Well, it's not clear. It could be hormesis,
+free radical generation. It could be that more
+oxygen in the tissues allows them to grow better. Those are all theories. But we know that it works. But then people started putting themselves in hyperbaric chambers. The military, certainly the Navy, have been doing this for a long time to prevent the bends. But it's found to be quite therapeutic, particularly for neurological disorders but increasingly for aging itself. - And we should say what a
+hyperbaric chamber is, right? A hyperbaric chamber is a room or sometimes just a little tube where the pressure is increased; and when the pressure is increased, the amount of oxygen that
+you get when you breathe is increased. - Right. You can go up a couple
+of atmospheres or more. And you supplement that with oxygen. You breathe in a bit more
+oxygen or pure oxygen. And so I recently tried this,
+actually, I went out to L.A. Fortunately, unlike you,
+I'm not claustrophobic. - I'm so... I couldn't do this. I can not do this. - You probably can't. But it's a glass cylinder,
+so you don't feel it. And I just watched "Schitt's
+Creek" for a while, it was pretty cool especially
+when I was high on oxygen. - You said it was funnier when you... - It certainly was funnier, but it might just be because
+every time I watch it it gets funnier. But it's really relaxing. I believe I was in
+there for about an hour. And you can meditate in there or you can fall asleep or watch TV. It's really a great experience. But that aside, what the science says is
+that it actually can reverse an aspect of aging, which is telomere shortening. The ends of the chromosomes... Many of you will have heard of this. Like the ends of the shoelaces, the aglets they're called; if they wear out, it actually
+leads to cellular senescence, the zombie cells. And this happens over
+time as we get older. And what we've been looking for, we scientists, for many years, is a molecule or a treatment that makes them grow back again 'cause that should help slow down aging and give us longer life. And that's what was reported last year from a group in Israel, who I know well. I've been over there and
+checked out their giant chamber. - And you actually got
+wind of this before... while they were working on it, and you went to kind of like peek in on what they were doing. - Yeah. I mean, this is one of the
+fortunate things about my job, is that I get to hear about
+things before they're public and I get a sneak preview. And I went over there and
+sat in their giant chamber, which looks like the inside of a bus, and with a mask you put on, and they showed me their data. Actually it looked like a
+control room from star Trek, it's really high-tech. But the data that they showed
+me in mice and in humans was really compelling. It looked like, at least in the mice, that those plaques and
+tangles in the brain of mice that were given Alzheimer's went away. - Do you have the little
+miniature hyperbaric chambers for the mice? - We're building one 'cause
+I'm going to use one in my lab, but they're not ready yet. But also what they were finding was that the humans that were put in there that had dementia or Parkinson's were dramatically improved
+after a few sessions of this. And it's become a real
+craze throughout the U.S. A lot of this is happening in L.A. where a lot of these trends start. People are reporting remarkable benefits. Now what we need are more
+studies like the one in Israel to actually measure
+things and, if possible, do a placebo control as well. - But at least what we have
+right now are some studies, most of them fairly small-scale; but human studies, memory improvements,
+telomeres, T helper cells. - Right. They go up as well. So in cognitive performance, there were those six elderly patients suffering from memory loss. And in 2021, this new study
+came out and they all improved. - And the really cool
+thing about this treatment, even though, look, like, not everybody has access to a
+hyperbaric chamber, obviously, but it is a pretty easy intervention. And it's easy to treat people this way, it's easy to test people in this way. So if it it works-
+- And now we have the clocks. We have the clocks. We can test if aging
+actually goes backwards. That would be a good experiment is to take people who have done 7 or 8, 10 bouts of this
+treatment before and after and see if their biological
+age went backwards. - So it's still early. It seems like these things are working across a variety of ways that we can measure aging
+and the problems of aging. If this is working, why is it working? - Yeah. Well, we don't know for sure. But one of the theories is that it's working similar to exercise. So hypoxia, the low oxygen
+when you go for a run, what it's doing is turning
+on this HIF-1alpha protein that I talked about earlier, and that helps promote health in the body. The other thing that happens with exercise is the free radical generation, that gives you a little
+bit of mitohormesis. It looks very much like hyperoxia. Hyperbaric chamber treatment
+does the very similar thing. You get a production
+of these free radicals and that stimulates also
+a mitohormesis response that gives you very similar
+benefits to low oxygen. There's one theory that I have, is that when you come down
+from the high levels of oxygen, it simulates hypoxia like you're running, as you come down from
+high levels to low levels. - So it's not so much the oxygen, the explosion of oxygen
+that you're getting, but it's like once you like
+temporarily get used to that then you come off of it- - It's the differential. And that fits with the new findings, which is going up once
+and coming down once is not as good as going up
+and down and up and down within a treatment. - Before we move away from
+hyperbaric oxygen treatment, I know you're most familiar
+with this Israeli study. Let's talk about the protocol in that one. - Yeah, they took 30 people and put them in their large
+chamber, the one that I visited. And they did 60 daily
+sessions of 90 minutes, five of those per week, and had a look at the
+number of senescent cells in the bloodstream before and
+after and telomere length. And what they found remarkably was that those aspects
+of aging were reversed. - They saw impacts in senescent cell too? - They did. In the immune system, looking at these immune cells, you can measure senescence. You can stain them blue, which is bright blue when you get older, and they found that there
+was a dramatic reduction in the number of those
+senescent cytotoxic T-cells, as they're called. - Okay, so 60 sessions, 90 minutes, this is not something most
+people can do every day right now. This is not going to be a common part of people's longevity
+regimens anytime soon. - Well, there are a number of centers that are run by doctors in major cities. It will become more popular,
+it's growing rapidly. But I think it's a great way in the future for people to mimic exercise. I wouldn't say don't exercise, right? But it's an interesting idea that you can lie down, watch TV, go to sleep and get your running by mimicking hypoxia, but in this case with high
+levels of oxygen in your body for a short period of time. - It's really cool. Let's shift now to talking
+about cold therapy, which is another thing
+that a lot of people are experimenting with now, another thing that there are
+centers for all over the place, but that the research is
+still sort of catching up to the excitement. So we're sort of on the edge
+here of our understanding. But we do know some things
+about what cold does to the human body and actually what cold does to organisms across the spectrum.
+- Yeah. In fact, when we wrote "Lifespan," there was almost no data on this. But now we know actually
+that one of the huge benefits you get from being cold is
+the production of brown fat. So what is brown fat? Brown, or it's often called
+beige fat, is found in babies. It's typically to allow them to stay warm because they don't shiver until they're about one year of age. And what was discovered
+about 10 years ago at Harvard by Bruce Spiegelman and Ron
+Kahn, a couple of my colleagues, is that adults also have some brown fat, and they discovered
+this with PET scanning, and they found it mostly
+exists on your back in your shoulder blades. And when you get cold, it revs up, you get more of this brown fat. And this is a good thing because brown fat is extremely healthy. It revs up metabolism, it burns white fat. And we think that there are
+these factors, little chemicals, little proteins that get
+secreted out of brown fat that make the rest of
+the body healthy as well. One of the reasons we know that is because there's a gene
+that makes brown fat, makes cells turn brown, from
+white to beige to brown, and it's called PRDM16. And mice that lack this gene, they don't have brown fat but they also develop type two diabetes and cardiovascular disease as a result. - Cold impacts not just humans,
+it impacts all organisms. We've seen this in model organisms too, these effects, right? There's studies in worms, there's studies in mice. You've got a couple of favorites, I know. You like talking about the mice that got to spoon together. - Oh yeah. So that one is a bit of a
+disappointment in the field. We had these dwarf mice
+that Mike Bonkowski, who was working in my lab, he was the guy that generated
+the longest lived mouse, he called it Yoda. And it was very long lived
+because it had a mutation in a gene for the growth hormone receptor, which means they were small and dwarfs. And these little small
+dwarf mice would live up to three times longer
+than normal mouse, it was quite an amazing thing. And the field was rejoicing: "Wow, we've figured
+out how to make mammals live that much longer." And then it was noticed
+that they were shivering, little cold mice. And so the researchers thought, "We'll just give them friends." - They weren't shivering
+because the lab was cold, they were shivering because? - They didn't have a companion. Mice like to live not
+solitary, but with other mice. And so they gave them a buddy, Each of these dwarves had a buddy. And then the majority of the
+lifespan extension went away. - When they got their buddy? - Yeah. Which is super disappointing, right? But what it told us was that
+a large effect of longevity was due to them being cold. - And why is that happening? When we go back to thinking
+about the survival circuit, what's happening? - Yeah, well, the trick is
+let's go back to the brown fat. What brown fat has a
+lot of is mitochondria. And within those mitochondria, they're actually quite different. They have high levels
+of proteins called UCPs, or uncoupling proteins, which insert into the
+membrane of the mitochondria and allow those protons that
+were built up to leak through; instead of going through that
+pump that makes the energy, they leak through. Why is that interesting? Well, first of all, that generates heat that helps the animal and we survive cold, but also you get fewer
+free radicals produced when you uncouple mitochondria
+with these proteins. And consistent with that, if you make an animal, let's say it's a a worm
+or a fly or even a mouse, that has high levels of these UCP genes, they actually live longer. So uncoupling and reducing
+that free radical load; and you can do this with
+cold therapy, we think; is beneficial to health. - And cold therapy, people
+call it cryotherapy, is this like short-term
+acute, super-intense... You've done this before, right? You did this with Rogan, didn't you? - Yeah. Joe said let's go do that
+after the show, which I did. It was pretty chill. I had to strip down to my underwear and put gloves on and socks and whatever. But you get to play music, at least. I got to choose "Help!" by the Beatles, which was quite appropriate because by the end of those three minutes- - You wanted out. - Well, the first two minutes, I'm like, "What's the problem? This isn't cold." But that last minute, I really thought I was
+going to get hypothermia and my ears might break off. - You're chattering and shaking- - Yeah, you really start to shiver, which is your body's
+way of generating heat by moving your muscles. But it was really enjoyable. I found afterwards I felt stimulated. I felt lucky to be alive. And I felt good for a
+number of days afterwards, which is probably because my
+mitochondria were revved up and I was building more brown fat. The one thing I think
+it's worth pausing here to talk about is: Why would you do this now? Why don't you wait till
+you're old to do cold therapy? And what's been found, at least in mice, is that old mice don't make
+brown fat as well as young mice. So what you want to do is, middle-age, do these treatments so that you're ready for old
+age when it becomes harder. - Just like right now we need
+to be doing vigorous exercise. We can't wait until we're
+old to do vigorous exercise. - Yeah, though it's never too late. We do find that things
+work in elderly mice and elderly people, but it doesn't work as
+well if you start midlife or even earlier. - Okay. And maybe that's like
+the cryotherapy stuff is sort of a can-do vigorous exercise, but you still have to have that low level of perceived adversity just like we have to get lots and lots of steps in every day. But we live in these environments, these temperature controlled environments where it's like 68 to 72. That's not how our ancestors lived at all. - No, we were shivering
+probably most of the time during the ice age for sure, and our bodies recognize that. We've got those genes that respond and they keep us healthy,
+as we've talked about. So there are a number of ways you can... If you don't have a
+cryotherapy center near you, what do you do? Well, you can take cold showers. Some people do that. I don't, I find that unpleasant. But you can do that, it's
+very cheap to do that. Or you can do something
+that I do actually do, which is sleep with very
+few covers on my bed and lower down my body temperature. And that's also been shown to activate these uncoupling proteins
+and build brown fat. - The opposite side of this is heat, which is also something that throughout our evolutionary history we've had to deal with. We didn't always live in
+temperature controlled buildings. And we've got some emerging
+research on that as well. - Right, taking your body
+out of its comfort zone. And so- - All of these things are
+about taking your body out of it's comfort zone, right? - They are, they are. And some of them are really enjoyable. I think sauna bathing,
+as it's called in Europe, is super enjoyable. And it also is good for your skin, you get to sweat and get
+those pores unclogged. But this is one of the most
+ancient therapies for longevity. Even before Roman times, they were bathing in these saunas, though the Romans would
+use fires under the floor. But this is something that
+European still carry on as a tradition, particularly in Finland and
+other Scandinavian countries, where these studies are
+typically performed on men for some reason. But the data that I've looked at, which we'll put in the show notes, is that there's absolutely no doubt that men who partake in sauna
+bathing a few times a week, often at home 'cause they
+build this into their houses, have a dramatic reduction, up to 20%, in the rate of cardiovascular disease and mortality caused by heart attacks. - This isn't happening for the
+same reason as cold therapy. This has nothing to do with brown fat. There's another thing
+that's going on here, right? - It's different in this case. What we think goes on in a sauna is you're activating HSPs. And these heat shock proteins are helping to fold proteins correctly and also stimulate pathways
+that are beneficial, such as building new blood vessels, making more mitochondria. And one of the reasons
+that I believe it's true is that in model organisms, take a worm, if you turn up his shock proteins, either by giving them a lot of heat or genetically modifying them, they also live longer. - We don't quite know what dosing is right for sauna baths at this point, or like how much, how hot the... Not a ton of research in this area. - No, but it doesn't seem
+like you can overdo it. I haven't seen any evidence
+that it's negative. And I used to... Before the pandemic, I used to go at least once a week and do multiple bouts of
+the heat shock in the sauna for about 15 minutes and then jump in an ice
+bath which was nearby for four minutes, and then cycle that. - You should probably consult your doctor before you do that. - I would, definitely. And I did. But, yeah, it can put
+some stress on the body, certainly on the heart. But, yeah, the idea though
+is to shock the body; heat, cold, heat, cold. And that way, I think, you get the maximum benefit
+from these adversity mimetics. - And again, you don't
+necessarily need to have access to a sauna to do this. I mean, some people can
+build them into their home, some people have them in their gyms, that's kind of a point of privilege. Most people have a bath or shower. - Or hot shower. I certainly do that. I like to turn the heat way up. There are a variety of different saunas. There's the old fashioned type, which is the cedar planks, sitting in there and you just
+throw water on hot rocks; that's traditional. There are new ones such
+as infrared saunas, and the infrared light
+actually penetrate the skin and is thought, and there's some evidence; real, believable evidence; that they also, in the skin layer, can reverse aspects of aging as well, and including improve hair growth. - For some obvious reasons, there's a lot of questions I
+want to ask about hair growth. We're going to be discussing
+hair growth, skin care, all these like sort of like
+cosmetic aspects of aging things in a future episode. One of the commonalities
+that I'm kind of sensing in all of these things, right, you do vigorous exercise and you get what we term a runner's high, and you talked about doing the cryotherapy and you felt like... What did you say? Like, blessed to be alive. I've done sweats and sweat lodges, and you come out of those things and it's just like it's
+the best drug in the world. What do you think... Why are these things so similar? This happens in the
+hyperbaric chamber too. - Yeah, that's one of
+the nice side effects. That's when you know that you're doing a good longevity protocol. 'Cause what's happening
+at the cellular level is those three main defense
+pathways get turned on; but at the physiological
+level, the neurological level, you're getting endorphins as well, and that's when you know you've actually done the right thing. - So let's talk about a basic protocol with the caveat that we always make, which is everybody's going
+to be a little bit different. But if we're trying to
+get sort of like exercise, cold, heat and hyperbaric, what's a good way to do that? We've already talked about
+the exercise protocol. Actually, I don't think
+we need to reiterate that. You need to exercise, get off your butt. Cold, heat and hyperbaric. - Yeah. Well, as I mentioned, I used to do and I will do again the cycling of the heat and the cold about five times during
+one day of the week. This was on a Sunday with my son Benjamin. But I would say more is better. There's no evidence that
+you can overdo this, you could even do it every day. If you don't have access to a gym, you can always use your house; you can turn down the temperature or you can use your shower, and that will work almost as well as dunking yourself into a cold bathtub. Or you could do what Gabby
+Reece and Laird Hamilton do, which is shove us into an ice bath literally with ice in it. I think that you don't
+need to do that every day. - Didn't you almost drown? - I did, but that was different. That was hyperoxia. What they do is they make
+you do exercise with weights at the bottom of a pool below your height. So you're underwater and you have to jump up with those weights to get a breath of air. - And we're not recommending
+that at this time. - No, I think everybody should
+go knock on their front door and do it with them. No, it's... But you can get hypoxia from exercise, it's very similar. So we've talked about hot and cold. The hyperbaric is more
+of an issue, I think- - That's a challenge. - There's not a lot of
+these centers around. And it's expensive, it's hundreds
+of dollars per treatment. But that's in the future,
+I think that that... I wanted to mention that because it's really interesting how it's so similar to
+exercise and hypoxia at the molecular level. But for most people right
+now, that's out of reach. - But that's not the
+only thing in the future. There's a lot of really cool things coming down the path right now, that are going to be a fundamental part of people's lives pretty soon. We're going to be talking
+about a lot of those in upcoming episodes. - We are. And actually I think a lot
+of people will be excited that we can mimic this
+adversity with molecules, with pills, with injections. And we're going to talk about
+that in the next episode. - In the next episode, yeah. So in the next episode: molecules, supplements, longevity, there's going to be a lot.
+- Yeah. I'm excited about this one 'cause I get questions every day about it. And I think it's going to be one of the most downloaded episodes. - Yeah, I think a lot of people are going to want to tune in.
+- I'm excited to dig in. - Yeah. Okay, cool. - Thanks for joining us this episode on exercise and other
+forms of acute stress. If you're learning from
+and enjoying this podcast, please subscribe to it on YouTube, Apple Podcasts and Spotify. On Apple, you have the opportunity to
+leave up to a five star review. If you'd like to support us, please check out the sponsors
+we mentioned at the start. We've partnered with
+companies we truly believe in and they make this show possible. We also have a Patreon, that's patreon.com/davidsinclair, there you can support the show
+at any level that you like. Thanks again. And we'll be back next week to discuss supplements and molecules like NMN, NR, resveratrol, and how these impact longevity. 

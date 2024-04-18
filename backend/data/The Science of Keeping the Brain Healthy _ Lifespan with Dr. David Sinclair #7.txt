@@ -1,0 +1,660 @@
+- Welcome to the Lifespan Podcast, where we discuss the science of aging and how to be healthier
+at any stage of life. Hi, I'm David Sinclair. I'm a professor at Harvard Medical School in the Department of Genetics, and I'm co-director of
+the Paul F. Glenn Center for Biology of Aging Research. This podcast is about
+why we age, and efforts, and things you can do in
+your daily life to slow, stop, and even reverse the aging process. In the last episode, we
+talked about the skin, the largest organ in the body. We talked about how to stay looking young and feeling good about yourself. But today we're talking about perhaps the most important
+organ in the body, and that's the brain. I'm joined today, and on all
+episodes so far, at least, by my-
+- Wait, so far, at least? - Yeah, well, we'll see how you're doing today.
+- Wait, do you know something that I don't? - No, just, I'm enjoying this. It's going really well. Matt and I have been together for years. We wrote the book "Lifespan," and he's also my lovely
+co-host of this podcast series. - Hey.
+- Welcome, Matthew. - I'm really terrified now. Like we're coming up on episode eight, and I'm not going to
+be here for season two. - Well, we're going to do
+a season two, no doubt. And I would not do this
+without you by my side. - Ah, can, Rob, can we make
+sure that that part of, like that I will not do
+this without you by my side, we really want to make sure
+that that gets broadcast. - Though I've been
+known to change my mind. - [laughs] So so far in this series, we've spoken about how
+aging impacts our bodies. And even though very clearly, there's really actually no separation between our bodies and our minds, these are integrated systems, but we've sort of up until this point, not talked a lot or much
+at all about the brain. And the reason for this is because nobody at all wants
+to stay healthy in their body if they're not also healthy in their mind. - Absolutely. And we live in a world where
+modern medicine, as we call it, has been very good at keeping most parts of the body healthy, the heart, so cardiovascular disease, cholesterol drugs, heart drugs. - Increasingly over the years, we've gotten better and better and better. - Right, we're living longer,
+but we're not living better, because the brain is still aging
+and getting these diseases. Alzheimer's and other types of dementia are becoming more prevalent because we're living
+longer, but not whole body, not holistically slowing
+down the aging process. - In fact, so currently,
+about 6.2 million Americans who are over the age of 65
+are living with Alzheimer's. That's just one of
+several forms of dementia. But because we're living longer, that number could grow more
+than twofold to 13.8 by 2060 if we don't come up with
+some medical interventions that can prevent or reverse
+Alzheimer's disease. - And there's very little, there's a recent drug that was approved, but it barely works. It makes a minor difference. So we have to make a breakthrough. And what we're going
+to talk about today is a totally new approach
+to treating dementia, and that is boosting the body's defenses against not just Alzheimer's, but against aging itself. And it's my belief in my labs, evidence that if you reverse
+the age of the human brain, Alzheimer's and other diseases
+of the brain will go away, and you'll even get your
+lost memories back again. But also, it's not just
+about Alzheimer is today. We're talking about other
+things that happen in the brain. We're talking about molecular changes that make cells forget
+what type of cell they are. So nerve cells become
+more like skin cells. And there's another process that's important during
+aging that we'll touch upon, and particularly about its reversibility, and that's loss of blood flow. - And this is really important
+because a lot of people, if you just say Alzheimer's, dementia, people think that's far away. They're going to fix that
+before I get to that point. But all of us, virtually all of us go through some amount
+of cognitive decline in our middle years. And so this isn't just about preventing these things that are way downstream. This is about making our mental, our intellectual lives better right now. - Well, the biological clock
+is ticking all the time. We're not talking about a
+female's biological clock. If you've listened to previous episodes, you know we're talking about what's called the epigenetic or Horvath clock, and this is ticking from conception. So even when you're
+20, 30, 40, and onward, that clock is ticking away. And what you do in your 20s and 30s will impact how healthy you
+are in your 70s, 80s, and 90s. So it's never too early
+to listen to this podcast and do the kind of things
+that we're talking about to slow down that clock. - Before we can get to that,
+we got to thank our sponsors. - Absolutely, because this podcast goes out for free thanks to them. So first up, Athletic Greens. Athletic Greens is an
+all-in-one daily greens drink that supports better health
+and peak performance. It's developed from a
+complex blend of 75 vitamins, minerals, and whole food
+sourced ingredients. It's filled with adaptogens
+for recovery, probiotics, prebiotics, and digestive
+enzymes for gut health. There's also vitamin C and zinc
+citrate for immune support. I've been drinking Athletic Greens for a number of years now as a way to cover all
+my nutritional bases. I'm often traveling, and
+sometimes my diet isn't the best. So by drinking Athletic Greens, I know I'm getting the
+vitamins and minerals that I need to stay healthy. So if you'd like to try Athletic Greens, you should go to
+athleticgreens.com/sinclair, and you can claim a special offer. They're giving five free travel packs plus a year supply of vitamin
+D3 for immune support, and vitamin K2, which keeps the calcium out of your arteries and
+puts it in your bones. Again, go to athleticgreens.com/sinclair to claim this special offer. Today's podcast is also
+brought to us by InsideTracker. InsideTracker is a
+personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and reach your health goals. I've been using InsideTracker
+for over a decade, and I'm the chair of their advisory board. The reason I've long used InsideTracker is because they provide the best blood and DNA analysis that I'm aware of. They make it easy to get your blood drawn. You can either go to a clinic or have someone come to your house and have it done there like I do. InsideTracker then presents your blood analysis in an
+easy way to understand. There are graphs, and then they give guide and
+lifestyle recommendations that'll improve your blood by a markers. Another feature that InsideTracker has is their inner age test,
+which I helped develop. The test shows you what
+your biological age is, how it compares to your chronological age, and what you can do to improve it. So if you'd like to try InsideTracker, you can visit them at
+insidetracker.com/sinclair to get 25% off any of
+their InsideTracker plans. Use the code Sinclair, my
+last name at the checkout. Today's podcast is also
+brought to us by Levels. Levels is an app that syncs with a continuous glucose
+monitor that they provide. And it interprets your
+glucose data for you. I've been so impressed using Levels that I recently joined
+the company as an advisor. By monitoring your blood glucose levels, the app allows you to see what different foods do to impact you. I've had lots of fun
+running tests on my own seeing how different foods
+impact my blood sugar levels. For example, I've learned that white rice really
+spikes my blood sugar, whereas potatoes don't. As we'll discuss on today's podcast, having stable blood
+glucose is very important, not only for daily mental
+and physical energy, but also for long-term health. If you would like to try Levels, you can skip 150,000
+people on a wait list, and you can join today by
+going to levels.link/sinclair. That's levels.link/sinclair. - Anyone who's been following along knows that we have presented a case
+over the last few episodes that aging is largely a result of X differentiation of cells. Let's touch on that really quickly, 'cause that's going to
+be an important point drawing through this episode as well. - You won't read a lot
+of this in textbooks. This is new science. - You won't even read the
+word X differentiation. This is something we- - That comes out of our work, yeah. And this podcast, you heard it here first. The idea, the new idea of aging is that it's not just
+random stuff going wrong. Is that there's actually a
+program that begins at birth. What happens during birth and prior to that is that
+cells gain an identity. We start as a stem cell that's fertilized, and these cells different identities. Brain cells, skin cells, liver cells, everything that makes our body up, the many thousands of different types, tens of thousands actually are given their cell type specificity by turning on different
+genes out of the same genome, so almost- - Through epigenetic signalers. - It's called epigenetic. The epigenome is the
+regulator of the genome. And the epigenome is not as
+easy to describe as the genome. The genome is just a
+chemical with four letters, four chemicals that is the instructions, but then there's a computer that reads that software called the epigenome. Or we also use the analogy,
+the reader of the compact disc, that old device we used to
+fit like 20 songs on it, was really exciting. But what we can now do
+instead of 20 songs, there's 20,000 genes, but the reader is the epigenome. And over time, by that analogy, aging is due to scratches on the CD, and you cannot read the right
+songs at the right time. And a brain cell over time
+starts to play the music of a liver cell or a skin cell
+and doesn't function as well. And we get diseases of aging, including Alzheimer's as a result. - In the last episode, we said that skin, it appears that skin ages faster than most other systems in our body. And we can use these clocks also, and have used these clocks to
+measure aging in the brain. And when we measure aging in the brain, we find something really interesting. - That the brain ages slower
+than the rest of the body. - Like significantly slower. Your brain is biologic, very good chance that your brain is biologically younger than you are. - Well, thank goodness, 'cause it's the most important organ. Without a functioning brain,
+we're really quite useless. - So one of these studies was led, actually a couple of these studies was led by your friend and sometimes
+collaborator Steve Horvath. - All right, before I get
+into Steve Horvath's work on the cerebellum, important stuff, let's talk about how that
+clock is actually measured. 'Cause that'll be important later for when we talk about diet. Steve measures the methylation on the DNA. It's a chemical called a methyl that the cells add to the
+DNA and it sticks there, it doesn't wash away, and it makes sure cells
+have their identity and play the right genes
+for the rest of your life. The problem is with aging, that changes, and you can measure that. In my lab, we can do
+it for about a dollar. And then the readout tells
+you, okay, that brain, even though the person is 40
+years old, actually is 50. - But you could look at the liver and you could see that
+the liver is actually 55, and you could look at the skin and say, oh, the liver's actually
+62 in equivalent numbers. Horvath and his associates looked at tissue samples from 112-year-old woman. And they measured the clock in all these different parts of her body. And the regions of the
+brain were all much, much less methylated
+than her other organs. So that was the first study. And then they've done other
+studies just a few years later. They did a study that showed
+across a lot of samples, predicted age is lower in the brain than really anywhere else in the body. Sometimes like a quarter of the age of other parts of the body. - Well, there's a practical and an evolutionary explanation for those. The practical one is that
+our brain is protected. There's a blood-brain barrier. It doesn't get hit by UV
+light like our skin does. - We have these big thick skulls. - We're basically lollipops on a stick. But our brain needs to be protected from these toxins that
+are in the environment, and of course anything
+that leads to brain aging. But of course, our brains will still age. DNA breaks, we've talked about. Broken chromosomes accelerate that clock. And this happens naturally even
+to cells that don't divide, including neurons, the
+nerve cells in our brain. - One thing to note is that a cellular turnover is
+relatively low in the brain. So even though these cells, even if they're not
+dividing, they still do age. That process of slow cellular turnover could explain some of the reasons why the brain doesn't X differentiate as fast as other regions in the body. - Yeah, that's probably right. Unlike the liver, you can cut
+a piece out, it grows back, the brain doesn't easily do that. There's a little
+neurogenesis, as we call it, but mostly those nerve cells are going to there for your whole life. And so they have these
+super protective mechanisms, these adversity systems that keep the brain younger for longer, but they're not perfect, of course. We do have an aging brain, but there are ways to
+turn on those defenses greater than they naturally
+would be activated. - And so all of this is the good news. The good news is, in general, our brains age more slowly
+than the rest of our bodies. The bad news, as we said at
+the beginning of the show, is that we are living longer. That's actually good news too, but it's got a bad news component because our bodies are now outliving, in some cases, our brain. The average onset of
+dementia is 80 years old. And in most advanced nations now, the average lifespan is
+more than 80 years old. And so what that really means is that more and more of us
+are living with dementia at the ends of our lives and
+other cognitive impairments. That's a terrible fate. That's something that we should
+all be working to prevent. - Well, that's why I work on aging and not Alzheimer's disease
+or cancer, specifically. As we've said in earlier episodes, by working on aging, we can
+keep the whole body young, including the brain, which
+is really what we want to do if we want to have maximal
+gains in longevity and health and mental capacity right up to the end. - And again, there's not, because you work on the whole body, you're not working on the whole
+body when people become old. We're talking about the whole body across the span of a human life. And there are advantages to that too, because everybody suffers
+some cognitive decline. This is a little terrifying. The volume of the brain after the age of 40 reduces
+about 5% per decade. And that's got cognitive implications for all of us as we enter what's used to be called our middle years. - Well, yeah, I'm 52. I can already feel it happening, but I'm doing certain
+things in my lifestyle. We're going to tell people
+about some of those things you can do to slow that process down and even reverse it later in life. - So a lot of people
+might think, well, okay, it does make a lot of evolutionary sense that the brain starts to
+have struggles at 30, 40, 50, but for one thing, for a
+long period of our history, people didn't actually
+last that long in general. - Right, most males
+would die from predation or war or starvation in their 40s and 50s. Some people did make it to their 80s. But for most of our history, we didn't need our brains as
+an 80-year-old, same for women. - Well, and we didn't need a really super sophisticated
+executive functioning to survive even when we
+were in our 30s and 50s, well, 30s, 40s, and 50s. If you made it that far, your life was going to
+be pretty much the same on Monday as it was on Sunday. And it was going to be pretty
+much the same on Sunday as it was two Sundays before and two months before
+and two years before, and even like 200 years before. - Right, as we talked
+about in the last episode, getting gray, losing your hair was signs of wisdom and you got respect. And presumably, you didn't
+need to be that quick witted. You had a lot of wisdom and experience that would compensate. But we live in a world
+now where every year, you have to be learning something new, and jobs are turning over. And it all started in the 1700s. Now we find ourselves at the point where it's really difficult, even for young people, to
+keep up with this change. - And this is what we call
+a plastic environment, an ever changing environment. And that has implications in terms of how our brains develop, and the plasticity that we need to respond to these changes over time. - Yeah, I watched my
+grandmother, who passed away, and we wrote about in "Lifespan." She was a mentor to me. Actually the reason
+that I do this research. She told me to make the
+world a better place. So she has a very dear spot in my heart. What I saw happen to her as she got older was she just shut down. She didn't care about life, but she also didn't care about change. And so she didn't worry about computers. She didn't bother
+learning how to use that. She didn't bother learning
+how to play a compact disc. And the last 20 years of
+her life weren't that great. Nowadays, you cannot be an older
+person and ignore technology, or you'll be isolated. You can't talk to your grandkids. This COVID-19 and the pandemic. - Yeah, imagine what, and this did happen to a lot of people, but this is a really terrible thing. If you were not able or willing to adopt new changes to your environment, you were not going to be
+able to talk to people during the shutdowns, during the pandemic. - Yeah, I was just at
+the Apple store getting a new phone just a couple of days ago. And I was there, there
+was a lot of young people, but then in Cayman, an older person, she was probably 85, the way she looked, and the way she wasn't walking that well. But she went up, and
+I reckon 20 years ago, it would be rare to see someone in a computer shop of that age. Now she went up and said, "Hey, I know about the
+new operating system. I need to get a new iPhone. And by the way, my iPad
+needs an update as well." I was shocked, and I
+remembered my grandma- - Can I link this to my smart walker? - Yeah, exactly. And I find also in our generation, so you're on your 40s, I'm in my 50s, we cannot slow down either. We can't say, all right,
+I'm just going to deal with my compact disc or record collection. We have to be, use Spotify
+to talk to our kids, we share files, social media. If you need dates, you
+need to figure out that. Jobs, the job market's changing totally. We used to have one or
+two jobs in our lives. Now we might have three
+jobs, we're mobile, we work remotely, and it's
+turning over all the time. That requires a brain that
+is highly, highly adaptable. - And so what we want to talk about now is this idea of keeping our brains and bodies aging at about the same rate so that we don't suffer physical decline, and we don't suffer cognitive
+decline through the, as much of the entirety of
+our lifespan as possible. And that's really, as we've had all of these advances in keeping our bodies
+younger and healthier, it's really about keeping the brain younger and healthier too. That comes down to some of the same things that we've been talking about
+throughout this podcast, these three longevity pathways. - Yeah, so those who've
+been with us will know that there are three main
+buckets of longevity factors that respond to adversity. And these have evolved
+to sense the environment when times are tough. We call them adversity mimetics that turn on these three things. So the buckets are mTOR, which respond to low
+amounts of amino acids, particularly leucine, isoleucine, valine. There's the AMPK pathway. AMPK senses low energy,
+low glucose levels, and makes more energy, more
+mitochondria, boost NAD. And that's important for the third group, which are the sirtuins that require NAD and can be activated by certain chemicals. Importantly, they all work together. We'll talk about later that
+sirtuins can activate AMPK. AMPK can activate sirtuins and mTOR. What they do downstream is complicated. We're not going to get into that
+except relevant to the brain, but they protect the body. They turn up metabolism, they burn fat, they repair DNA, they
+clear out senescent cells, they lower inflammation
+among many other things. - Can we dive a little into mTOR? We're going to talk mostly about sirtuins, but there's a real key role
+that mTOR plays in autophagy. - Well it does. They all play a role in autophagy, but mTOR is the most potent one. mTOR responds to insulin
+signaling and fasting. And in response, it mobilizes proteins to be recycled and made into new proteins
+when you're hungry. And that's called autophagy, the garbage collection and trash recycling system of the cell. And that's particularly
+important for the brain. 'Cause as we get older, there are these misfolded proteins. In the eye, they're called lipofuscin, and then in Alzheimer's, they're plaques and tangles of proteins. And to get rid of those, you
+need really deep cleansing. It's called chaperone-mediated autophagy. And mTOR is a really
+great way, not activating, but downregulating mTOR, turns on those recycling
+pathways really effectively. We're not going to talk
+so much about that, though we are going to talk a little bit about changing our diet to ensure that all three of these
+pathways are working in the way that will promote brain health. - And even though we're really
+mostly going to be focusing today on the sirtuin pathways, you could be assured
+that the lifestyle advice that comes along with this, it works for all three of these pathways. - It does, 'cause they're
+talking to each other. The reason we're going to
+focus on the sirtuins is in part 'cause I've been
+working on them in my lab, but also because they become
+central to brain health. And so we'll cover both. And also what's important
+about the sirtuins as opposed to these other two buckets is that the sirtuins respond to whole variety of environmental pseudo-stresses. We call them adversity mimetics. We're going to talk about food, talk about exercise and
+supplements that you can take that should activate these three
+pathways quite effectively. And we think based on
+animal studies as well, and human studies, should
+slow down brain aging and even potentially reverse it. - And there's several types of sirtuins, but one in particular, there's a couple that are
+important to brain aging. One in particular is called SIRT1. - Right, so there are seven of these genes in every cell in our body. The brain makes a lot of SIRT6 and SIRT1. And over time, the levels
+of both go down with aging, as well as the fuel that
+those enzymes need called NAD. But we'll focus on SIRT1 mostly because that's what seems to be the most important for
+controlling brain aging. - Let's talk about the role of sirtuins when it comes to aging in the brain. - Well, remember this
+clock is ticking away because the loops and the bundles of the DNA are getting messed up. The bundles become loops, the
+loops are becoming bundles. We've linked the sirtuins to that process. What happens when a cell
+is overstressed, overbroke, and overdamaged is that
+the sirtuins have two jobs. They have to create these bundles of DNA and make sure the cell has its identity, so the genes are read
+like a proper compact disc or a software in a computer. But when chromosomes
+break or you crush a cell, there's a panic attack. And the sirtuins rush away to help with that stress and
+repair the broken DNA. But then they have to find their way back to where they came from and reestablish that
+structure of the epigenome. And they do a pretty good job. 99.9% of all of those structures
+go back to how they were. But that .1% never goes back,
+and over time accumulates. And these are the
+scratches that cause aging. - And in order to mitigate that, what we want to do is
+upregulate the sirtuins. And we can do that through NAD boosters. - Right, well, in the mouse in 2008, we published that just
+upregulating SIRT1 gene in the nerve cells of a mouse's brain were sufficient to slow aging and prevent those loops and bundles from changing. And that was the first evidence you could slow down a mouse's brain age. But you can't modify our
+brains genetically just yet, so we need to find safe ways
+you could take a chemical, a pill hopefully, rather
+than an injection, that will increase SIRT1's activity. The ones we know of are
+resveratrol and NAD boosters. We'll talk about those in a second. And then they give the benefit
+of a good diet and exercise. And in combination, even better. - Well, let's talk about
+those things first. Let's talk about diet and exercise, 'cause that's got to be the foundation on which we build all this other stuff. - Well, absolutely. We've talked previously
+about the Mediterranean diet. And one of the reasons
+is that it's very clear in over a dozen studies that
+a Mediterranean-type diet protects the brain from aging, and can even reverse aspects of aging in the elderly with mild
+cognitive impairments. - Yeah, there's a study earlier this year from a really large
+international research group. It was led by Tommaso Boldrini. It showed higher adherence
+to a healthy diet, in this case, the Mediterranean diet, is associated with less amyloid beta, less tau, larger gray matter volume. If some of these words
+are sounding familiar, it's because they're all associated with Alzheimer's disease. - And there was a second study
+that I found fascinating. This one was by Anastasio et al., 2017. And it was over 1,000,
+actually close to 2000 people. And there was a 10%
+reduction in dementia risk for people on the Mediterranean diet. And- - There's actually a 10% risk reduction for each Mediterranean diet score, which means the more
+Mediterranean your diet, the better you were doing. - Right, and so that includes
+olive oil in the diet, red wine, and not a lot of red meat. - Yeah, and not surprisingly, this is a research team from Greece. They really like the Mediterranean diet for obvious reasons. - Yeah, what I want to get into later, and hopefully we will is, what is it in that diet chemically
+that can help the brain? - Well, I don't know that we need to wait too long to get into that. Let's talk about that. What is it in that diet chemically
+that can help the brain? - Well, there are a number of things. I would put them into a
+few different buckets. There are vitamin that can be deficient, that we need to talk
+about the clock later. But first up, there's red
+wine, which has polyphenols. Resveratrol is one of those. And my lab has been working
+on resveratrol for many years. And that directly activates SIRT1. It makes the enzyme, it's like Pac-Man, and it's controlling
+genes and it works faster. So resveratrol from red wine has clearly been shown to be beneficial, and also prevents cancer and not just has metabolic
+and brain-enhancing effects. The other component of Mediterranean diet that works on SIRT1 is olive oil. And [indistinct] recently showed
+that if you add oleic acid, which is a major component of olive oil, it's also found in avocados
+and other good foods like that, can also directly activate the enzyme by sticking to it and making this Pac-Man, I don't know if everyone
+knows what a Pac-Man is, this little puppet creature
+on an electronic game, chomp faster. And there's probably other molecules. We talked previously in another episode about xenohormetic molecules. Plants make these molecules
+to survive stress, and when we eat them, we get the benefits of that
+stress, because we worry, our bodies worry that our
+food supply might run out. - One of the, and that's sort
+of the overarching nature of a plant-based diet, whether it's Mediterranean
+diet or some other diet, is that it is mimicking adversity. Your body's got to work a little harder to get everything that it needs, that's sending the signals that
+maybe times aren't so great and we need to activate
+these longevity pathways. - Well, that's the difference
+between a Mediterranean diet, and a high fat carnivorous diet,
+and a typical Western diet. They're full with calories, full with a whole bunch of stuff that tells the body times are good. It's a bounty. No need to protect ourselves. Let's just burn the candle at both ends and forget about life later. And that's not what you want. What you want to do is to have
+the perception of adversity. And the Mediterranean
+diet, as well as in Japan, what's called the Okinawan diet, which has low levels of
+protein and mostly plant-based, those two trick the body into thinking that the food supply sucks
+and could run out any minute. - And these diets aren't perfect, right? Let's talk about some of the things that you need to make sure
+that you're getting enough of if you are eating this plant-based diet. - Right, well, one of the
+first things to worry about if you're just focusing on plants only is a deficiency in folic acid. This is vitamin B12. Low-
+- This is the supplementation that they give to pregnant women, 'cause they're often low in folic acid. - Yeah, and there's a good reason why, which I'll get to in a second. There are other B vitamins
+that are also important to make sure that you have enough of, vitamin B6 and B3. We've talked about B3 as early component that's building up that
+NAD for the sirtuins. So B vitamins, especially if
+you're on a plant-based diet, but for everybody, don't
+be deficient in these. Why? Because the B vitamins are the ones that make sure you have the methyls that are added and
+subtracted from the DNA, that controls the DNA methylation clock. If you have low levels of B12, it's known that you have deficiency in the ability to methylate DNA, and that will mess up your epigenome, and very likely accelerate the clock in a way that causes aging. And there are a lot of
+studies that have shown that deficiencies in B12
+accelerate a variety of diseases, heart disease is the major one, but also dementia in the brain. And the main reason I
+think what's going on is that aging is being accelerated when you don't have enough
+of these B vitamins. - And the result of low B vitamins is an elevated level of homocysteines. - Well, that's a markers, yeah, exactly. So often your doctor,
+but not all the time, measures homocysteine levels because it's been shown to go up as a predictor of heart
+disease and dementia. And high levels are
+particularly dangerous. Most doctors would want you to have less than 10 micromoles per liter. Some people go as high as 100. If you're that high, you're certainly going to die in the next few years of
+cardiovascular events. So you try to keep the
+homocysteine levels down. And the best way to do that is to make sure B12 levels are optimal, not too high, 'cause that
+can also cause problems. Again, you have to measure it. I use InsideTracker to
+measure my B vitamins. But also you want to
+avoid too much alcohol, definitely don't smoke. Your menopause will also affect
+your homocysteine levels. Certain types of cancer will. And aging itself leads to
+increases in homocysteine. - And this all materializes as plaque. - Well it does, but homocysteine itself, I don't think is the problem. It's that the methylation pattern on the DNA is getting messed up. The sirtuins can't cope. SIRT1's not good at going
+back to where it came from. And your body will get older. And when your body is older,
+it has more inflammation, can't get rid of plaque, builds up calcium in the arteries instead of being in your bones, and that we call diseases, but that's actually aging going on. - I think a lot of people think
+about elevated homocysteines in terms of what's going on in their blood vessels
+throughout their body. But we're having a conversation
+here about our brains. It's important there as
+well, maybe even more so. - Well, yeah, it's known that
+high homocysteine levels, which is a version of an amino acid, do correlate with increased
+susceptibility to dementia. And the reason probably is that we have vasculature in our brain, and that these are very small vessels that are needed to bring
+oxygen and take away toxins, and they clog up really quickly. And with high homocysteine
+levels as an indicator, we're getting plaque also building up. And not only that, the endothelial cells that are like the lining
+of the blood vessels, they literally are, but they need to remain
+flexible, like rubber bands, they become defective, they
+age, and they become stiff. And then they start to
+accumulate this cholesterol, and then you get occlusions. And that can ultimately end in a stroke. But even before that, those occlusions are limiting the amount of oxygen your brain gets, leading to of course losing your ability to remember things, even at my age, but ultimately what's
+called vascular dementia. - There's a pretty simple way
+to monitor that accumulation. - Yeah, you just look in your eye. Well, you don't look in your eye. - It's really it hard. I actually tried earlier. - Yeah, a doctor, an ophthalmologist, or even an optician will look in there and have a look at the back
+of the eye, the retina, and they can see very clearly. And they'll take photographs. They can show you of whether you've got a perfect blood vessel lining, these blood vessels sit
+on top of the nerves, which is a bad design, but
+that's how we are designed. They will see those blood vessels. And if they're occluded, that's
+a really, really bad sign. We've actually known for many decades that if you see one of these
+occlusions and a lot of plaque, you basically are going to suffer from a heart attack and die pretty soon. - Yeah, you have like a, it's like a 15% chance
+of death within a year. And then it goes up from
+there in really scary measure. - Exactly. In 1959, Dr. Robert Hollenhorst
+found that these plaques, these little occlusions that he could see in the back of the eye with
+his lens predicted survival. It got really bad, in
+fact, what's now known, if you see these, you got a 50-50 chance of being alive seven years later, and that's really scary. - That's really scary. So obviously, staying ahead of this, not letting that accumulate
+at all is preferential, even to catching it early. - Right, and think of this. Your eyes are a window into your brain. In fact, your eyes are your brain. They're extensions of those
+nerves with balls at the end- - I know, that's creepy. You told me that before,
+and I got creeped out. - Yeah, when you look
+at someone in the eye, you're actually looking at their brain. Pretty cool. But what's great about is
+you can see into your brain. And that's what we're
+talking about here is getting an indicator
+of how much occlusion, plaque there is building
+up inside your skull. - Let's talk also about fatty acids and the importance of really making sure that you're getting the right and the right kinds of fatty acids. Particularly if you are
+on a plant-based diet and you're concerned about brain health, which we all should be. - Right, even with a normal diet, you often don't get enough of
+these omega three fatty acids, which are the types that
+we don't make ourselves. If you're only meat
+and you don't eat fish, you eat animals besides fish, you're not getting a lot of them. And they're the building
+blocks of the brain, so we need a lot of them. And they've been shown
+in a number of studies to help with many different things, from wound healing, and
+of course, depression. Now, what are the sources? Well, if you eat fish, you're
+probably in good shape. You've got salmon and
+mackerel, krill, sardines. These are good sources of omega-3s. - And these are giving
+us the DHAs and the EPAs. 'Cause there's three different
+kinds of these, right? - Well, there are lots,
+but the three main ones that people talk about are EPA and DHA. The EPA is the more important one. You want to get at least a gram of that. Sometimes people say, get 1.6 grams of this ratio of EPA to DHA, and women about 1.3 grams. And that's been shown to greatly improve memory
+and counteract depression. Now, if you're a plant-based person, you can't obviously get as much, you have to focus on other types of food that have what's called
+alpha-linolenic acid or ALA, which is converted
+slowly, not efficiently. About 10% of it gets converted by the body into the two types we just
+mentioned that are important, the DHA, and importantly, the EPA. Focus then on flaxseed,
+walnuts, chia seeds. That's where you get your ALA. Linseed oil is where it
+was first discovered, ALA, linolenic acid. I use that to polish certain things, keep wood looking good, cricket
+bats, you put it on there. But you can also, you
+can consume a little bit. There's a lot of it in there as well. And there's one other
+thing I want to mention that isn't in that list of three, which is a monounsaturated
+fatty acid called oleic acid, which is really important. And I mentioned it earlier. It's a component of
+olive oil and avocados. And I have that included in
+my supplement every night, along with these other components. - As a recent convert to seaweed salads, I would be remiss not to note
+that you can actually get, it's one of the few plant sources you can get DHA and EPA
+from is from seaweed. - Is that right?
+- It is right. - Well, I don't know if
+you get enough of it. I think it's really a
+good thing to consider. And talk to your doctor about it, to take at least a gram of these omega-3 fatty acids every day. - So we know we should be
+consuming these omega-3s, but why? What are they doing on ourselves? - So it turns out these
+omega-3s actually form a structural component of the brain. They insert along with
+other fats in the brain. So fat is actually good for the brain. A lot of our brain is
+made up of these fats. The reason is that the
+nerves aren't naked. Much like an electrical wire, you don't have them lying
+around your house naked. They're actually wrapped with insulation tape
+or insulating material. And that's what these fats do. And these are membranes that wrap around, it's called the myelin sheath. And these fats, actually,
+some of them are omega-3s. And the more omega-3s
+you have in your diet, the more you'll have in those membranes. And that protects from
+inflammation and damage, and helps the nerves function and repair if they get damaged. - We have to eat for brain
+health because what we eat, what we consume helps make up the parts of our brain that
+keep our brain healthy. We also have to exercise for brain health. We can't neglect that part. And we can't think that exercise just affects us from
+here down, it doesn't. - Well, that's actually
+known in dozens of studies. It's been shown that if you do aerobic exercise or even just walk, that'll improve your chances of having a better memory and
+cognition as you get older. The reason we think that is,
+is that there's two reasons. One is better blood flow, and also better neuronal activity and slowing aging of those cells. That involves the sirtuins, this third protective survival pathway. That can be activated, of course, by the food, and also by exercise. - We've seen this in a number of both human and animal studies. - Well, that's right. There are a number of studies
+that we could talk about. The one that stood out
+for me in our research was the one that involved 160
+sedentary, sitting down, non-exercising adults that
+were told for six months to do extra aerobic exercise,
+to do some aerobic exercise. - Yeah, they were actually, they were led through this process, 'cause you can't just tell
+humans to do anything. They're just not going to do it. - They had a cattle prod and they're pushed onto a treadmill. Something like that? - I don't think it's
+that highly regulated, but they do make sure they
+actually do the exercises. - So Blumenthal and his colleagues
+found, what was it, 2019, that this greatly improved
+executive function. - Executive function.
+- Yeah. - That's the function that's like co-equal to the judicial and legislative function? - It's kind of like that, but
+kind of different, which is, so you know a lot of kids
+don't have executive function. They can't focus. They can't do tasks right. That's what executive function is. Concentration, focus, do some tasks. - And so just a little bit of exercise, six months of exercise
+improved for these people, they're all over the age of 55, improved dramatically their
+ability to do these things. - Well, they did. And I think that that's one of the main reasons for exercising. You might want to do it not to
+just because you feel better, but you will think better too. - It's hard to take people who have Alzheimer's, Parkinson's disease, other cognitive problems
+through things like that, because it's just, at a certain point, you lose the ability to
+get them to respond to you. But there's also lots of
+evidence in mice for this. There's a study this year
+out of Brazil that showed that exercise had a
+really significant effect on mouse models of
+Alzheimer's and Parkinson's. - Right, so it's not just
+aging that exercise works on. What you're saying, and what's in the literature
+is that diseases of aging, and also including Parkinson's, which is age-related,
+are benefited as well. There's another study. It doesn't have to
+include aerobic exercise. There's one where there's
+strength exercise. So if you don't like running,
+pick up some weights, because what's been found
+in this study, this is 2013, Perera and colleagues found
+that in an elderly cohort, they had 451 people, just 10 weeks of strength
+training increased the level of factors that grow new
+brain cells, new nerves. This marker is called BDNF, or brain-derived neurotrophic factor. And we use that as a way of indicating the youthfulness of the brain and regrowth of new nerve cells. - And the takeaway here is that at a time in many people's lives when they're becoming less active, it's actually more
+important than ever before to become more active and to stay active. - Before it's too late. It's very hard to get a
+very elderly grandparent or parent to get on a
+treadmill or lift weights. So what we want to do for ourselves and for our parents and grandparents is to get them moving early
+on before it's too late. - Even if we're eating well,
+even if we're exercising, presumably, our ancestors
+did these things too. If they hadn't, we wouldn't be here. They faced these sorts of adversities all throughout their lives. And that's what we're trying to mimic through our diets and our exercise. It still might not be enough, because we do live these
+lives of incredible comfort, and we eat a lot of food. And so we might need a
+little additional help when it comes to keeping
+our brains healthy. This is where supplementation comes in. And one of the supplements we
+want to talk about is metformin. A lot of people are going to say, oh wait, that's an AMPK activator. You guys said you were talking about SIRT. But we're actually kind
+of talking about both. - Well, yeah, there's crosstalk between
+these various defenses. The AMPK pathway talks to
+the NAD sirtuin pathway. When you take metformin, and you get this mitochondrial
+hormesis, mitohormesis, that will raise NAD levels. It'll stimulate the production
+of the enzyme that turns NMN, a precursor of NAD, into NAD
+itself and raise NAD levels, and get the sirtuins active
+as well in the brain. - Okay, and we know that metformin is good for brain health from
+a variety of studies. One we want to start with
+today is this fish study, which I did not know that they did cognitive studies on fish. - Fish are actually used
+quite often in labs. And most of them live about
+two years, as long as a mouse, which doesn't make them
+that much more advantageous, but there are short-lived fish. There's one called Nothobranchius furzeri that lives only a few months. There's one, in this study,
+they used redtail notho, which is guentheri,
+Nothobranchius guentheri, and it comes from Zambia. It lives a bit longer. Its environment isn't as
+harsh as the other one. And over that year, what it
+does is it breeds very quickly. It lays eggs that become
+encased in a shell. The fish then dies, and those eggs will survive
+until the rains come again. But it's a great model for aging, because it goes through its
+lifecycle super quickly, but it's built of the same
+stuff that mice and we are. - And how do you tell that a fish is having cognitive impairment
+or cognitive success? - So it sounds crazy
+measuring memory in a fish, but they do have good memories. You can test it in a variety of ways. You can put food and a light, and see if they remember that the light is where the food is. They come to the light if
+they have a good memory. You can put them through
+mazes, like a mouse, they swim through if
+they've got a good memory, and they know where the
+food is at the other end. And the third one is where you
+test their fear conditioning. It's reaction and memory of fear. And you shine a red light in the tank, and then you get a stir
+like you would a cocktail, and swizzle it around, and they, sure, if they remember that, next time they see the light, they should run away, or
+swim away, I should say. And so what they did was, in this study was they found that by treating these
+fish with metformin, put a little bit of
+metformin in their food, those fish were able to remember those tasks much better as they got older. - And so the Ted lasso quote about being a goldfish and
+immediately forgetting things, that's not true? - No, fish have a really
+good memory actually, and they have brains that
+are quite similar to mammals. - So when you give these
+fish the metformin, what's happening cellularly? - Molecularly, what's happening is that the metformin molecule gets inside the cell and into the mitochondria where there's what's called
+the electron transport chain. This is a series of bundles
+of proteins, five in all, that pass electrons between
+them like a hot potato, and generate chemical energy. Metformin disrupts that first step, and in doing so releases free radicals. Superoxide anion is one that goes off and damages parts of the cell. And we call this damage mitohormesis, which is a little bit of damage makes actually the cells stronger. One of the main things that happens is that the cells react and say, oh my goodness, we don't
+have enough energy, make more mitochondria,
+more battery packs, more energy for the body. That's always a good thing with aging and health and longevity. The other thing that happens
+is that this signal sends a protein called GLUT4 to
+the outside of the cell in the membrane to suck more
+sugar out of the blood stream, and having lower blood
+sugar protects the body from this caramelization process that also causes many diseases, including dementia, by
+clogging up the arteries. - High blood sugar is not
+good for brain activity. - No, it's not good for any tissue. What happens is this glucose
+that's in your bloodstream, if it gets too high, it actually binds to proteins, about 10%, five to 10% can be covered
+in this glucose molecule. That's bad for their function. It's often hard to remove, and it leads to dysfunction particularly of the cardiovascular system. - We're not just seeing improvement in cognitive function
+with metformin and fish. There's been studies on mice. There's been studies on rats. There's been studies on humans. - Yeah, there's a bunch. Our researchers did a great job, and they're all fairly
+recent, 2014 to 2019. The one that I want to bring up is Koenig and colleagues in 2017, a really good study. It's randomized,
+placebo-controlled crossover. That's what you always look for. Metformin improved, again,
+this executive functioning, the ability to focus, by treating 20 non-diabetic
+normal subjects. And they had mild dementia
+when they started, and they improved, which means that dementia is somewhat reversible with this drug. It also means that if you're starting to lose focus in your
+job, daily activities, either taking Metformin may help, or just keeping your glucose level steady, which is what a lot of us do, and we measure that daily
+with monitors on our arms. That is also a way to stay focused. - And that's a small, really
+well controlled study. There's also a really big,
+less well controlled study, but nonetheless really
+impressive study from 2019. It took a really huge
+cohort of diabetic patients, tens of thousands of them. Dementia incidence for the
+metformin users, 55% lower. - So actually, it was preventing the onset of dementia by what, 55%? - Right.
+- That's a massive number. When we talk about these numbers, often it's a five to
+10% decrease in disease. 55% is a massive number that we should definitely
+pay attention to. - There's been some
+suggestion that metformin, in addition to acting on AMPK, and then the chain of
+custody moves its way down and AMPK acts upon NAD, metformin actually might
+impact NAD directly as well. - Yeah, so that study
+was super interesting from a few years ago that metformin could directly interact
+with, bind to the enzyme, and make that Muppet, that
+Pac-Man creature go faster, in the same way that
+resveratrol has been shown to. But that was only done in one study. And of course, in all science, we need to reproduce it, and we're still waiting on those results. In my lab, we've tried it. We haven't had perfect results
+yet, but we're still trying. - In the meantime, there are more direct
+ways to impact NAD levels. And that's through NAD boosters. There's been lots of
+animal research on this. It elevates cognitive functioning. It promotes recovery after
+brain injury, all good stuff. - Yeah, why would you
+want to supplement NAD in the first place? Well, it's known, just like the rest of the
+body that in the brain, NAD levels go down for a
+couple of main reasons. One is that we don't make
+as much that NAMPT enzyme that's activated by
+metformin and exercise, goes down, so you don't make as much. But also it was shown by Jeffrey Milbrandt at Washington University in a
+couple of high profile papers just in the last few years
+that there's an enzyme that gets turned on in nerve cells when they're damaged called SARM1. And it depletes the cell rapidly of NAD. So what you've got is a decrease
+in the production of NAD, also with an increase in
+the degradation of NAD. So supplementation we think is important, to not just get the youthful levels back, but go beyond that, to mimic exercise, mimicking a perfect diet, especially for the elderly who cannot always do those things. - And we've got a long
+history now of research going back almost 20 years of NAD supplementation on brain health. There was a study in 2004 that showed treatment with
+NADH slowed Alzheimer's. And a lot of people hear about NAD+. NADH might be a little unfamiliar. - NADH is basically NAD with a hydrogen atom attached to it. NAD+ has a positive charge
+like the end of a battery. And then if you stick the hydrogen onto the vitamin B3 part of the NAD, then that's going to be called NADH. And that's important in a cell, 'cause that's the other
+major function of NAD. One is to turn on the sirtuins and DNA repair and all that good stuff. But it also is known as a
+hydrogen carrier molecule that takes hydrogens and moves
+it from one place to another. - So why would NADH work if
+NAD+ is what's the standard? - Well, what I think is
+going on here is that, so NAD activates sirtuins in
+a test tube and in the cell. NADH actually has the opposite effect, so you don't want high levels. So what's probably happening is that NADH gets into the bloodstream, gets degraded into its various components, vitamin B3, there's a phosphate, there's a part of DNA called
+a nucleotide, the A letter, and they get reassembled back into NAD+. You're just giving the components in a concentrated form by taking NADH. - Another more recent
+result, a combination of NR, which is another kind of NAD booster that we talked about a few episodes back, and pterostilbene slowed
+down the progression of ALS. - So NR is different from NMN. Let's go through that again. When you want to make NAD, what the cell does is it takes vitamin B3, or niacin, or nicotinamide,
+turns it into NR. So the nicotinamide gets
+now a sugar, ribose. And then to make NMN, it puts a phosphate, which is phosphorus and oxygen. And then it combines that
+together to form NAD. So those are the various steps. Now, what NR is, it's a
+couple of steps back from NAD. And so when you take NR, it's made into NMN, made into NAD. But it's been shown in
+humans by taking large doses, about a gram of NR, you'll make NMN, and you'll make higher levels of NAD, which is shown to be important in this study in ALS patients. Those ALS patients
+actually benefited greatly from this supplementation. The other component I forgot
+to mention is pterostilbene. And the pterostilbene
+part of it is resveratrol. It's resveratrol with three
+methyl chemicals on it. It's essentially a way of delivering in a pill form resveratrol
+plus an NAD booster. - This was a pretty short-term study. It showed immediate
+returns for ALS patients when they took this combination
+of NR and pterostilbene. But Lenny Guarente, who's running the study
+out of his lab at MIT, your former mentor there, we chatted with him this morning. He said, actually, they're now looking at a year long study so that they can see if
+these results continue on for a longer term for
+patients who are dealing with a really, really
+debilitating disease. - For which there is no cure,
+or even effective treatment. So this would be a big deal. And most of these trials fail
+in the first stage, phase one. They're in phase two, so they
+made it further than most, but of course, it's a very
+difficult disease, ALS, Stephen Hawking, it's just a
+terrible, debilitating disease, very hard to treat, but
+fingers crossed for this one. Hopefully those patients
+will continue to do better. - Can we talk a little bit about this idea of increasing blood flow, and what NAD boosters do for blood flow? One of the studies that
+you were involved in showed vascular improvements in mice that were put on these boosters. But vascular flow isn't just
+important in our bodies. It's, well, frankly, it's more important in our brains, right? - Right, we forget about our brain needing blood flow and oxygenation, 'cause we don't really see it. It's not part of our daily thoughts. But it's just as important, if not more important
+than the rest of the body. We found not only does
+NMN and SIRT1 activity maintain the youthfulness and ability to grow new blood vessels
+in the mouse as muscle, but we collaborated with Zoltan Ungvari at the University of
+Oklahoma to show that mice, even in their brains, benefit from NMN by
+building new blood vessels. And those elderly mice not
+just had better blood flow, but could think and
+remember things better. - And we think that's because of the
+improvement in vascular tissue. - Well, almost undoubtedly, that's what was going on in those mice, because we could block the effect. We could actually downregulate
+the SIRT1 specifically in those endothelial cells
+that line blood vessels, and then the benefit of NMN went away. - And this turns mice with older brains into mice with younger brains? - That's essentially what happens when mice and people get
+their ability to learn again, that's reversing an aspect of aging. - So before we move off of the topic of sirtuins in the brain, it's not just blood vessel
+that are being affected. It's not just the cerebellum. There are other parts of the brain that are also really
+well impacted by SIRT. - There are a few things I
+want to mention about SIRT1 before we leave this topic. One is that overexpression, turning up SIRT1 in all of the nerve cells in the brain extends a mouse's lifespan and protects them against these diseases that we induce in them, ALS, Huntington's, and
+Alzheimer's disease. The other thing is, there are a couple of
+regions that are of note. One is the hippocampus, which secretes hormones
+into the bloodstream, and that can actually
+reduce blood glucose levels by talking to the liver. The other area of the
+brain is the hippocampus. This is the part of the brain
+that consolidates memory. And it was found in old mice, if we activated that part of
+the brain with resveratrol, or activated SIRT1 by
+putting in more copies of that gene and turning it on, those mice had better
+memory even in old age. So really what this
+says is that SIRT1 plays an amazingly important
+role in delaying aging, preventing diseases of aging in a mouse, and potentially even in a human. We'll see how those trials continue. But let's talk a little bit about sleep, 'cause the hypothalamus
+controls the circadian rhythm, day and night rhythms of the body. - Yeah, let's talk about sleep, because quite frankly, if you don't sleep, you're in a lot of trouble. And you're going to age faster. There's lots of research on this. - Yeah, even at the molecular level, we understand that SIRT1 and NAD play a fundamental role in controlling
+your wake-sleep cycle. SIRT1 and NAD are going up in the morning, coming down later in the day, getting your body ready
+for sleep, and in doing so, what they do is they turn on
+a particular gene called BMAL, which is part of the clock, not the Horvath clock,
+but the daily clock, the circadian rhythm clock. And those genes tell
+the liver to calm down, it tells the brain to calm down, and in the morning, tells
+everything to wake up again. And so what is really
+important to understand is if you start to lose the function of SIRT1 and have low NAD levels, you're probably not going to sleep well, but also, you're going to age prematurely. - And the big problem here is that sleep efficiency
+actually declines with age. So we got to work harder
+at sleep as we get older, just like we have to
+work harder at exercise as we get older to promote brain health. - Yeah, another way of saying
+it is that as you get older, you lose your ability to sleep. And if you don't sleep well, you'll lose your ability to fight aging. And it's just a feed forward disaster. So you've got to intervene. You can intervene with the kind of things
+we talk about here, which is eating well, exercising, and intervening with the kind of things that you can take perhaps as a supplement. But now, let's talk about what do we do to make sure we sleep well, and we have the right rhythm. And one of the key
+things that I use is NMN. NMN is going to raise NAD
+levels in the morning. I take a gram of it then. But I also, when I travel,
+I use it to reset my body. And I definitely feel that I
+can avoid jet lag if I do that. - There's some other supplements
+that a lot of people take. Magnesium? - That's good for sleep. L-theanine is another one that people try. I've used it, seems to help me. But essentially, you just
+want to calm down at night. Don't do your emails too late. Relax your brain. - And then I think a
+little counterintuitive, one of the best things that you
+can do for sleep at night is actually not something you
+do before you go to sleep. It's something you do right
+away when you wake up. - You mean go outside? Get some light?
+- Well, you got to get light. You got to reset your circadian rhythms. And the best way to do
+that is put yourself in a situation where your
+body knows it's daytime. - Well, you can. But here in Boston where I live, there's not a lot of light in winter. So I actually have some blue light that I can shine in my eyes
+to get my cortisol levels up, synthetic way, not naturally. But whatever you do, try to get some light
+early in the morning, 'cause that always gives
+you an energy boost and helps you reset your circadian rhythms if they're not perfectly in sync. - And like the other things
+we've talked about today, there's lots and lots of research. We're not just making this up. Sleep is important, we know this. - Well, yeah, even in flies. Flies sleep. It's a little known fact. But before we get to the humans, I want to, this is a really cute study. It was a study that was
+in 2020 in fruit flies. They found that if you
+deprive flies from sleep, they have a lot of oxidative
+stress in their gut, and they also have a short
+lifespan, which by the way, could be rescued by treating
+them with an NAD booster. - Which is also a way that we've seen that you can rescue human
+subjects from sleep deprivation. But even just one night
+of sleep deprivation, a lot of people say, oh, you
+know, I'll catch up tomorrow. I'll catch up the next day, whatever. Maybe I didn't sleep well tonight, but I can sleep well the rest of the week. One night of sleep deprivation increases amyloid beta production by 5%. That's, you don't want to
+miss with amyloid beta, right? - No, that will accumulate in your brain. It's very hard to get rid of. And I was also shocked to read that it's not just the brain
+that ages if you don't sleep. We already know that if you
+restrict rats from sleep, they get diabetes within two weeks. In humans, looking at a million people, this study's from 2010, Capucho et al. What they found was that in people that had very little sleep, the risk of dying was 30% higher than those that got a
+natural, normal night's sleep. - And the thing is, our brains are getting so
+much adversity right now. We talk about a little bit
+of adversity being good, but we evolved to have a pretty low, constant low level of adversity
+popping up now and then. And right now in terms of the insults and injuries that we're taking
+in in terms of stresses, daily stresses, everything changing, our brains are being
+besieged all the time, we need sleep to reset. - It's just too much. There's too much to remember. There's too much to cope
+with, too much anxiety. We just are living through a pandemic. This is really stressful times. And just lack of sleep makes it worse. And physically, we will
+regret it decades later. - The overall message today is we got to keep our brains healthy. And we have to work to
+keep our brains healthy. We can't just expect that they're going to do
+what they've always done throughout our evolutionary history, which is to last longer than we have. We've figured out many of the tricks that are going to keep us
+alive for longer holistically, but we got to keep our brains healthy for at least one day longer
+than the rest of us last. - It's super important that
+we look after our brains. It's not just about ourselves. It's about our families. Many families have had to take care of parents and grandparents
+that have dementia. This is not pleasant for anybody. And we have a responsibility to society, and particularly our family members, to stay healthy for longer, particularly keeping our
+brains younger for longer. - In our next episode, we're going to be talking
+about a lot of the things that we sort of hinted at
+throughout the series so far in terms of what's coming next. Maybe what's coming next in a few years, maybe what's coming next in 10 years. And what if we can keep ourselves from aging too quickly over
+the next couple of decades, might be a quarter century away and sort of waiting for us
+there if we get there healthy. - Well, it's a super exciting time. The reason we're doing this podcast now is to bring the audience,
+the world along with us, and to experience these changes essentially in real time
+as they're being made. And the kind of results
+that are in the lab and increasingly going
+to customers, consumers, and eventually to patients
+in hospitals and at home with medicines will be directed towards lengthening lifespan, not just by one or two
+years, but by decades. And I can see that coming. We're going to talk about
+some of these things that'll include wearables, monitors, and even age reversal technologies that get that Horvath DNA
+methylation clock to go back, not just a couple of years,
+but potentially by decades. - One of the things that I noticed, and we've talked about
+this a lot, you and I, many of the things that we
+talked about in the book, that we said, these are a
+little ways down the line. It's only been three years since the book, two years since the book was published, and a lot of those things
+are coming to fruition a lot faster than we had even thought. And so these things that
+maybe in the next episode, we're going to say, ah, these
+are kind of far down the line, who knows, they could
+be here next Tuesday. - Right, it's blowing my mind how quickly things are changing. I didn't realize the discovery
+of reprogramming in the eye, which was in the book, and
+we published very recently, has taken the world by storm. There's billions of dollars
+being poured into this. So it's very hard to predict how this is going to look
+just a few years from now. Plus the wearables, these
+things are changing, and coming to the public all the time. The other thing that's happened
+thanks to the pandemic is that home remedies and
+home testing has taken off. So there are things we can now do at home that were beyond even the imagination when we wrote the book. - Yes, fundamentally changing what healthcare is going to look like in this next part of the 21st century. - Well, it's exciting. A lot of our health and our wellness is in our own hands now. we have the tools, we'll have the knowledge to
+greatly lengthen our lifespan, of those of our parents, our
+grandparents, and our kids. And that's in part what
+we're going to talk about in the next episode of "Lifespan." If you're enjoying this podcast and would like to support us, please subscribe on YouTube,
+Apple Podcasts, and Spotify. On Apple, you have the opportunity to leave us up to a five-star review. Also check out the sponsors that we mentioned at the
+start of the episode. That's probably the best
+way to support the show. These sponsors not only make it possible for us to get this show to you at no cost, but they offer products and services that we truly believe in, and we think that you'll really enjoy. We also have a Patreon account. It's at patreon.com/davidsinclair. And there, you can support this show at any level that you'd like. Thank you again for joining us on this episode of the "Lifespan Podcast." 
