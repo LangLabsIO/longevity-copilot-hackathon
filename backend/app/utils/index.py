@@ -1,6 +1,5 @@
 import logging
 import os
-from scipy.spatial.distance import cosine
 from llama_index import (
     SimpleDirectoryReader,
     StorageContext,
@@ -25,27 +24,21 @@ service_context = ServiceContext.from_defaults(
 
 def get_index():
     logger = logging.getLogger("uvicorn")
+    # check if storage already exists
     if not os.path.exists(STORAGE_DIR):
         logger.info("Creating new index")
+        # load the documents and create the index
         documents = SimpleDirectoryReader(DATA_DIR).load_data()
         index = VectorStoreIndex.from_documents(documents, service_context=service_context)
+        # store it for later
         index.storage_context.persist(STORAGE_DIR)
         logger.info(f"Finished creating new index. Stored in {STORAGE_DIR}")
     else:
+        # load the existing index
         logger.info(f"Loading index from {STORAGE_DIR}...")
         storage_context = StorageContext.from_defaults(persist_dir=STORAGE_DIR)
         index = load_index_from_storage(storage_context, service_context=service_context)
         logger.info(f"Finished loading index from {STORAGE_DIR}")
     return index
 
-def get_relevant_response(query):
-    index = get_index()
-    query_embedding = service_context.embed_model.get_text_embedding(query)
-    # Retrieve document embeddings and compute similarity
-    similarities = [(doc, 1 - cosine(query_embedding, service_context.embed_model.get_text_embedding(doc.content)))
-                    for doc in index.documents]
-    # Sort by similarity
-    most_relevant_document = max(similarities, key=lambda x: x[1])[0]
-    prompt = f"You are an longevity assistant that helps the user gain relevent info about longevity. They will ask a question and you will recieve context. If they are just greeting you then say hello back instead.Context: {most_relevant_document.content}\nQuestion: {query}\nAnswer:"
-    response = service_context.llm.complete(prompt)
-    return response
+# Be sure to set your TOGETHER_API_KEY in your environment or directly in the code before running it.
