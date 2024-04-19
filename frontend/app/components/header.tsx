@@ -16,7 +16,7 @@ export default function Header() {
             height={40}
             priority
           />
-          <span className="text-slate-100">Built by Langlabs</span>
+          <span className="text-slate-100">Longevity Copilot</span>
         </a>
       </div>
     </div>
