@@ -1,7 +1,19 @@
-# Longevity-Copilot
+# Longevity-Copilot  
 
-Welcome to the official repository for the Longevity Copilot hosted by LangLabsIO.  
-*Longevity-Copilot is aiming to integrate cutting-edge AI technology to bring the latest longevity research and applications to all.*
+<table>
+  <tr>
+    <td>
+<img src="Langlabs-Logo.png" width="230" height="230" alt="Langlabs Logo">
+    </td>
+    <td style="padding-left: 40px;">
+<h3><strong>Welcome to the official repository for the <br><br>
+Longevity Copilot hosted by LangLabsIO.<br><br>
+Longevity-Copilot is aiming to integrate <br><br>
+cutting-edge AI technology to bring the latest<br><br>
+longevity research and applications to all.<strong></h3>
+    </td>
+  </tr>
+</table>
 
 ## About Us    
 ### Our Journey to Enhancing Life Through AI and Longevity Science
@@ -54,14 +66,18 @@ and actionable for everyone, ensuring that users can make informed decisions abo
 - **Tailored Recommendations:** Get personalized health and lifestyle advice that considers your unique circumstances such as age, diet, health issues, and physical activity levels.
 - **Cutting-Edge Research:** Stay updated with the latest findings in longevity science. Longevity-Copilot integrates contemporary research directly into your interaction with the AI.
 - **User-Friendly AI:** Engage in natural, easy-to-understand conversations with our AI, making complex longevity research relatable and easy to comprehend.
-- **Real-Time Answers:** Have a question about longevity? Our chatbot provides real-time responses to help you apply longevity science in your daily life effectively.
+- **Real-Time Answers:** Have a question about longevity? Our chatbot provides real-time responses to help you apply longevity science in your daily life effectively.  
+<br>
 
 
 **Longevity-Copilot is aimed for receiving information, and by no mean is it a replacement for  
 a professional healthcare provider. It is a tool that can be used by anyone, anywhere, and at any time.**  
 
 
-![alt text](image.png)
+<img src="image.png" width="850" alt="Longevity-Copilot">  
+<br> 
+Longevity-Copilot chatbot  
+<br>
 
 ## Technologies Used
 - **Programming Languages:**  
@@ -98,48 +114,28 @@ To get started with this project, clone the repository and follow the installati
 (you can use Python 3.10 or higher.)  
 *conda activate longevity-copilot-env*  
 
-### Install dependencies:
-*cd ingest*  
-*pip install -r requirements.txt*  
-
-
-### Install frontend dependencies:
-*cd ../frontend*  
-*yarn install*  / or  
-*npm install*  / or  
-*bun install*  
-
-
-### Running the application
-
-### create a .env file in the ingest folder and add the following variables:
+### To run ingest:  
+create a .env file in the ingest folder and add the following variables:  
 VECTARA_API_KEY =   
 VECTARA_CUSTOMER_ID =   
 VECTARA_CORPUS_ID =   
 VECTARA_OAUTH_CLIENT_ID =   
 VECTARA_OAUTH_SECRET =   
 
-
-### ingest data into Vectara:
-cd ingest  
-python main.py  
+Follow this link to the [ingest Readme](./ingest/README.md) file.  
 
 
-### To run the backend:
-cd backend  
-python main.py  
+### To run backend:  
+Follow this link to the [backend Readme](./backend/README.md) file.  
 
 
-### To run the frontend:
-cd ../frontend  
-yarn start   / or  
-npm start   / or  
-bun run start  
+### To run frontend:  
+Follow this link to the [frontend Readme](./frontend/README.md) file.  
 
 
-## How to Contribute
+## How to Contribute  
 We welcome contributions from the community and are excited to see how you can help Longevity-Copilot grow!  
-Here are some ways you can contribute:
+Here are some ways you can contribute:  
 
 - **Reporting Bugs:** Report bugs by opening an issue in the GitHub repository.  
 - **Suggesting Enhancements:** Have an idea to make Longevity-Copilot even better? Open an issue and we might just incorporate your suggestions!  
@@ -151,12 +147,12 @@ Here are some ways you can contribute:
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-Longevity-Copilot is made available under the [MIT License](https://opensource.org/licenses/MIT). 
-By using, distributing, or contributing to this project, you agree to the terms and conditions of this license.
+## License  
+Longevity-Copilot is made available under the [MIT License](https://opensource.org/licenses/MIT).  
+By using, distributing, or contributing to this project, you agree to the terms and conditions of this license.  
 
-## Acknowledgments
+## Acknowledgments  
 
-* Thanks to everyone who participates in and supports the hackathon.
-* Special thanks to LangLabsIO for hosting this event.
+* Thanks to everyone who participates in and supports the hackathon.  
+* Special thanks to LangLabsIO for hosting this event.  
 
