@@ -16,7 +16,7 @@ Longevity Copilot is aiming to integrate cutting-edge<br><br>
 </table>
 
 <p align="center">
-  <video src="/media/demo.webm" width="320" height="240" controls>
+  <video src="/media/demo.mp4" width="320" height="240" controls>
     
   </video>
 </p>
