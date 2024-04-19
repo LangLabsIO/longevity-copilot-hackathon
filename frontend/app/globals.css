@@ -35,7 +35,8 @@
 
     --radius: 0.5rem;
   }
-  ul, li {
+  ul,
+  li {
     color: #ffffff;
   }
 
@@ -73,7 +74,6 @@
   }
 }
 .background-gradient {
-  background-image: url('transparent_forest_background.png');
   background-size: cover;
   background-position: center;
 }
@@ -99,3 +99,15 @@
       
   }
   */
+body {
+  font-family: var(--font-inter), sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-inter), sans-serif;
+}
