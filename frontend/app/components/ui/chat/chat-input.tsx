@@ -16,7 +16,7 @@ export default function ChatInput(
     | "handleInputChange"
   > & {
     multiModal?: boolean;
-  },
+  }
 ) {
   const [imageUrl, setImageUrl] = useState<string | null>(null);
 
@@ -57,7 +57,7 @@ export default function ChatInput(
   return (
     <form
       onSubmit={onSubmit}
-      className="rounded-xl bg-gray-900 p-4 shadow-xl space-y-4"
+      className="rounded-xl bg-slate-800 p-4 shadow-xl space-y-4"
     >
       {imageUrl && (
         <UploadImagePreview url={imageUrl} onRemove={onRemovePreviewImage} />
