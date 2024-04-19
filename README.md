@@ -154,5 +154,5 @@ By using, distributing, or contributing to this project, you agree to the terms 
 ## Acknowledgments  
 
 * Thanks to everyone who participates in and supports the hackathon.  
-* Special thanks to LangLabsIO for hosting this event.  
+* Special thanks to LabLab for hosting this event.  
 
