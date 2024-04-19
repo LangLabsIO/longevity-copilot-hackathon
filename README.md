@@ -16,9 +16,8 @@ Longevity Copilot is aiming to integrate cutting-edge<br><br>
 </table>
 
 <p align="center">
-  <video width="320" height="240" controls>
-    <source src="/media/demo.webm" type="video/webm">
-    Your browser does not support the video tag.
+  <video src="/media/demo.webm" width="320" height="240" controls>
+    
   </video>
 </p>
 
