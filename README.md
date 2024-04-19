@@ -1,4 +1,4 @@
-# Longevity-Copilot  
+# Longevity Copilot  
 
 <table>
   <tr>
@@ -6,11 +6,11 @@
 <img src="Langlabs-Logo.png" width="230" height="230" alt="Langlabs Logo">
     </td>
     <td style="padding-left: 40px;">
-<h3><strong>Welcome to the official repository for the <br><br>
-Longevity Copilot hosted by LangLabsIO.<br><br>
-Longevity-Copilot is aiming to integrate <br><br>
-cutting-edge AI technology to bring the latest<br><br>
-longevity research and applications to all.<strong></h3>
+<h3><strong>Welcome to the official repository for                 Longevity Copilot.<br><br>
+   <br><br>
+Longevity Copilot is aiming to integrate cutting-edge<br><br>
+ AI technology to bring the latest longevity research <br><br>
+ and applications to all.<strong></h3>
     </td>
   </tr>
 </table>
