@@ -1,4 +1,4 @@
-# Longevity Copilot
+![Design (3)](https://github.com/LangLabsIO/longevity-copilot-hackathon/assets/29067169/4cbfb3f8-4858-42fe-803b-228a9f470890)
 
 <table>
   <tr>
