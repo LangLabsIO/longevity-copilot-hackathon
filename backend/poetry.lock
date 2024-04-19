@@ -1065,6 +1065,20 @@ files = [
 llama-index-core = ">=0.10.1,<0.11.0"
 
 [[package]]
+name = "llama-index-embeddings-together"
+version = "0.1.3"
+description = "llama-index embeddings together integration"
+optional = false
+python-versions = "<4.0,>=3.8.1"
+files = [
+    {file = "llama_index_embeddings_together-0.1.3-py3-none-any.whl", hash = "sha256:04b146f56640f1df746fcfcaefcb7eb06aa80cda27b4d78c3fc69a08250137f6"},
+    {file = "llama_index_embeddings_together-0.1.3.tar.gz", hash = "sha256:c2561793eebf141574552d2a51ddafb49e55a70cbf2d3f14b34d989ee3127770"},
+]
+
+[package.dependencies]
+llama-index-core = ">=0.10.1,<0.11.0"
+
+[[package]]
 name = "llama-index-indices-managed-llama-cloud"
 version = "0.1.5"
 description = "llama-index indices llama-cloud integration"
@@ -3147,4 +3161,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11.7,<3.12"
-content-hash = "3a3a7549c61c71ba321522139b4d16e5c465329c5183dcce31a1404bd98327f2"
+content-hash = "016007e42e87d6dd78d65f2626531a6133dfbd73213e585473a051f4ddb9d359"
