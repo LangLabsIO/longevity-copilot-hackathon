@@ -16,9 +16,10 @@ Longevity Copilot is aiming to integrate cutting-edge<br><br>
 </table>
 
 <p align="center">
-  <video src="/media/demo.mp4" width="320" height="240" controls>
-    
-  </video>
+
+https://github.com/LangLabsIO/longevity-copilot-hackathon/assets/29067169/047f08cd-429a-449c-a0f0-008b589d0b75
+
+
 </p>
 
 <h2 align="center">Try out our AI Age Prediction FREE⤵️</h2>
