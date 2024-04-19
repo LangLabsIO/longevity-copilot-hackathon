@@ -28,7 +28,7 @@ export default function ChatSection() {
         handleSubmit={handleSubmit}
         handleInputChange={handleInputChange}
         isLoading={isLoading}
-        multiModal={MODEL.toString() === "gemini-pro-vision"}
+        /*multiModal={MODEL.toString() === "gemini-pro-vision"}*/
       />
     </div>
   );
